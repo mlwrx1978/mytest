@@ -1,127 +1,79 @@
 proxies:
-  - {name: q261619242, server: 36.134.116.212, port: 45194, type: vmess, uuid: b4051d39-63e1-4381-96e6-2d266526b1e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇺🇸 美国1, server: zh01lv3us01.feiguayun.xyz, port: 50001, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
   - {name: 🇺🇸 美国2, server: zh01lv3us02.feiguayun.xyz, port: 50001, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇭🇰 香港2, server: zh01lv5hk02.feiguayun.xyz, port: 11087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇭🇰 香港, server: 36.134.116.212, port: 45240, type: ss, cipher: chacha20-ietf-poly1305, password: c71caa0d-c488-4242-9291-9a64c83196ac, udp: true}
-  - {name: 🇸🇬 新加坡, server: 36.134.116.212, port: 45149, type: vmess, uuid: c71caa0d-c488-4242-9291-9a64c83196ac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇭🇰 香港 2, server: 36.134.116.212, port: 45240, type: ss, cipher: chacha20-ietf-poly1305, password: b4051d39-63e1-4381-96e6-2d266526b1e3, udp: true}
-  - {name: 🇭🇰 香港 3, server: 36.134.116.212, port: 45251, type: ss, cipher: chacha20-ietf-poly1305, password: b4051d39-63e1-4381-96e6-2d266526b1e3, udp: true}
-  - {name: 🇨🇭 瑞士, server: ch1.nodegz.top, port: 443, type: trojan, password: 97528522-6883-3f98-9f66-b6e134dfcd64, sni: ch1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇳🇱 荷兰, server: nl1.nodegz.top, port: 443, type: trojan, password: 97528522-6883-3f98-9f66-b6e134dfcd64, sni: nl1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国INAP, server: us2.nodegz.top, port: 443, type: trojan, password: 4b884f9c-aaa4-3bcb-ac6f-70a79bba4077, sni: us2.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇳🇱 荷兰 2, server: nl1.nodegz.top, port: 443, type: trojan, password: 4b884f9c-aaa4-3bcb-ac6f-70a79bba4077, sni: nl1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 新加坡 2, server: sg1.nodegz.top, port: 443, type: trojan, password: d0f96d3c-c518-3af9-bcbd-34b3743b7e34, sni: sg1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇰🇭 柬埔寨, server: kh1.nodegz.top, port: 443, type: trojan, password: d0f96d3c-c518-3af9-bcbd-34b3743b7e34, sni: kh1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇳🇱 荷兰 3, server: nl1.nodegz.top, port: 443, type: trojan, password: d0f96d3c-c518-3af9-bcbd-34b3743b7e34, sni: nl1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇭 瑞士 2, server: ch1.nodegz.top, port: 443, type: trojan, password: 14c52c38-942f-3c56-89af-97bd46c7b65e, sni: ch1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇳🇱 荷兰 4, server: nl1.nodegz.top, port: 443, type: trojan, password: 14c52c38-942f-3c56-89af-97bd46c7b65e, sni: nl1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 新加坡 3, server: sg1.nodegz.top, port: 443, type: trojan, password: 7d2f4381-c5d5-38ae-9ee9-5dd8e37f66d7, sni: sg1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇷🇺 俄罗斯, server: ru1.nodegz.top, port: 1234, type: trojan, password: 7d2f4381-c5d5-38ae-9ee9-5dd8e37f66d7, sni: ru1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇭 瑞士 3, server: ch1.nodegz.top, port: 443, type: trojan, password: 7d2f4381-c5d5-38ae-9ee9-5dd8e37f66d7, sni: ch1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇳🇱 荷兰 5, server: nl1.nodegz.top, port: 443, type: trojan, password: 7d2f4381-c5d5-38ae-9ee9-5dd8e37f66d7, sni: nl1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国INAP 2, server: us2.nodegz.top, port: 443, type: trojan, password: 62867210-7dd6-3b5c-8947-bc419d8528b9, sni: us2.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇳🇱 荷兰 6, server: nl1.nodegz.top, port: 443, type: trojan, password: 62867210-7dd6-3b5c-8947-bc419d8528b9, sni: nl1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇭 瑞士 4, server: ch1.nodegz.top, port: 443, type: trojan, password: 62867210-7dd6-3b5c-8947-bc419d8528b9, sni: ch1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国INAP 3, server: us2.nodegz.top, port: 443, type: trojan, password: 9f3c7c4b-97e0-3b0b-8864-f4095a38fe66, sni: us2.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇳🇱 荷兰 7, server: nl1.nodegz.top, port: 443, type: trojan, password: 9f3c7c4b-97e0-3b0b-8864-f4095a38fe66, sni: nl1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 新加坡 4, server: sg1.nodegz.top, port: 443, type: trojan, password: 9f3c7c4b-97e0-3b0b-8864-f4095a38fe66, sni: sg1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国INAP 4, server: us2.nodegz.top, port: 443, type: trojan, password: 7d2f4381-c5d5-38ae-9ee9-5dd8e37f66d7, sni: us2.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国INAP 5, server: us2.nodegz.top, port: 443, type: trojan, password: 14c52c38-942f-3c56-89af-97bd46c7b65e, sni: us2.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国纽约, server: 198.98.56.61, port: 5515, type: vmess, uuid: 9f3c7c4b-97e0-3b0b-8864-f4095a38fe66, alterId: 0, cipher: chacha20-poly1305, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 198.98.56.61}}, udp: true}
-  - {name: 🇺🇸 美国INAP 6, server: us2.nodegz.top, port: 443, type: trojan, password: b8d5a1e1-17cb-3200-afb6-a9463692b83a, sni: us2.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇳🇱 荷兰 8, server: nl1.nodegz.top, port: 443, type: trojan, password: b8d5a1e1-17cb-3200-afb6-a9463692b83a, sni: nl1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 新加坡 5, server: sg1.nodegz.top, port: 443, type: trojan, password: 25e87dc7-5b48-337c-9fbf-ca8dfd1bdb86, sni: sg1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇭 瑞士 5, server: ch1.nodegz.top, port: 443, type: trojan, password: 25e87dc7-5b48-337c-9fbf-ca8dfd1bdb86, sni: ch1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国INAP 7, server: us2.nodegz.top, port: 443, type: trojan, password: c3534f9d-b2ff-316b-9aac-5fee852d9a21, sni: us2.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国INAP 8, server: us2.nodegz.top, port: 443, type: trojan, password: 25e87dc7-5b48-337c-9fbf-ca8dfd1bdb86, sni: us2.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇳🇱 荷兰 9, server: nl1.nodegz.top, port: 443, type: trojan, password: 25e87dc7-5b48-337c-9fbf-ca8dfd1bdb86, sni: nl1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇭 瑞士 6, server: ch1.nodegz.top, port: 443, type: trojan, password: c3534f9d-b2ff-316b-9aac-5fee852d9a21, sni: ch1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国, server: us1.nodegz.top, port: 443, type: trojan, password: c3534f9d-b2ff-316b-9aac-5fee852d9a21, sni: us1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国INAP 9, server: us2.nodegz.top, port: 443, type: trojan, password: ba2cc258-cd36-3b32-917d-49169b6380d1, sni: us2.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇳🇱 荷兰 10, server: nl1.nodegz.top, port: 443, type: trojan, password: ba2cc258-cd36-3b32-917d-49169b6380d1, sni: nl1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 2, server: us1.nodegz.top, port: 443, type: trojan, password: 440055a3-7c84-3cb3-9b7a-a974a66e9b98, sni: us1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国INAP 10, server: us2.nodegz.top, port: 443, type: trojan, password: 440055a3-7c84-3cb3-9b7a-a974a66e9b98, sni: us2.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 3, server: us1.nodegz.top, port: 443, type: trojan, password: ba2cc258-cd36-3b32-917d-49169b6380d1, sni: us1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇳🇱 荷兰 11, server: nl1.nodegz.top, port: 443, type: trojan, password: c3534f9d-b2ff-316b-9aac-5fee852d9a21, sni: nl1.nodegz.top, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国3, server: zh01lv3us03.feiguayun.xyz, port: 50001, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
   - {name: 🇬🇧 英国1, server: zh01lv3uk01.feiguayun.xyz, port: 50011, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
   - {name: 🇬🇧 英国2, server: zh01lv3uk02.feiguayun.xyz, port: 50011, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇯🇵 日本1, server: zh01lv3jp01.feiguayun.xyz, port: 50021, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇯🇵 日本2, server: zh01lv3jp02.feiguayun.xyz, port: 50021, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇬🇧 英国3, server: zh01lv3uk03.feiguayun.xyz, port: 50011, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇯🇵 日本3, server: zh01lv3jp03.feiguayun.xyz, port: 50021, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇸🇬 新加坡1, server: zh01lv3sgp01.feiguayun.xyz, port: 50031, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
   - {name: 🇸🇬 新加坡2, server: zh01lv3sgp02.feiguayun.xyz, port: 50031, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
   - {name: 🇸🇬 新加坡3, server: zh01lv3sgp03.feiguayun.xyz, port: 50031, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇭🇰 香港10, server: zh01lv5hk10.feiguayun.xyz, port: 31087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇭🇰 香港1, server: zh01lv5hk01.feiguayun.xyz, port: 11087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇭🇰 香港3, server: zh01lv5hk03.feiguayun.xyz, port: 11087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇭🇰 香港4, server: zh01lv5hk04.feiguayun.xyz, port: 11087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
   - {name: 🇭🇰 香港5, server: zh01lv5hk05.feiguayun.xyz, port: 11087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇳🇱 荷兰 12, server: nl1.nodegz.top, port: 443, type: trojan, password: 440055a3-7c84-3cb3-9b7a-a974a66e9b98, sni: nl1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 4, server: us1.nodegz.top, port: 443, type: trojan, password: 5f0097d5-3401-3874-8328-6f2df48bbac7, sni: us1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇳🇱 荷兰 13, server: nl1.nodegz.top, port: 443, type: trojan, password: 5f0097d5-3401-3874-8328-6f2df48bbac7, sni: nl1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国INAP 11, server: us2.nodegz.top, port: 443, type: trojan, password: 5f0097d5-3401-3874-8328-6f2df48bbac7, sni: us2.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇨🇭 瑞士 7, server: ch1.nodegz.top, port: 443, type: trojan, password: cf9be019-1f76-3ceb-a67a-247d45b4725a, sni: ch1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 5, server: us1.nodegz.top, port: 443, type: trojan, password: cf9be019-1f76-3ceb-a67a-247d45b4725a, sni: us1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇳🇱 荷兰 14, server: nl1.nodegz.top, port: 443, type: trojan, password: cf9be019-1f76-3ceb-a67a-247d45b4725a, sni: nl1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 6, server: us1.nodegz.top, port: 443, type: trojan, password: 415a81c2-8a5c-37d1-8558-200be3c9cca9, sni: us1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇳🇱 荷兰 15, server: nl1.nodegz.top, port: 443, type: trojan, password: 415a81c2-8a5c-37d1-8558-200be3c9cca9, sni: nl1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇩🇪 德国5, server: zh01lv5ge05.feiguayun.xyz, port: 36087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇨🇦 加拿大2, server: zh01lv5ca02.feiguayun.xyz, port: 37087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇮🇳 印度1, server: zh01lv5in01.feiguayun.xyz, port: 38087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇩🇪 德国4, server: zh01lv5ge04.feiguayun.xyz, port: 36087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇩🇪 德国2, server: zh01lv5ge02.feiguayun.xyz, port: 36087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇨🇦 加拿大1, server: zh01lv5ca01.feiguayun.xyz, port: 37087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇭🇰 香港6, server: zh01lv5hk06.feiguayun.xyz, port: 31087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇭🇰 香港7, server: zh01lv5hk07.feiguayun.xyz, port: 31087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇭🇰 香港8, server: zh01lv5hk08.feiguayun.xyz, port: 31087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇭🇰 香港9, server: zh01lv5hk09.feiguayun.xyz, port: 31087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇭🇰 香港10, server: zh01lv5hk10.feiguayun.xyz, port: 31087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇹🇼 台湾1-Netflix, server: zh01lv5tw01.feiguayun.xyz, port: 31187, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇹🇼 台湾2-Netflix, server: zh01lv5tw02.feiguayun.xyz, port: 31187, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇹🇼 台湾3-Netflix, server: zh01lv5tw03.feiguayun.xyz, port: 31187, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇹🇼 台湾4-Netflix, server: zh01lv5tw04.feiguayun.xyz, port: 31187, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇹🇼 台湾5-Netflix, server: zh01lv5tw05.feiguayun.xyz, port: 31187, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇺🇸 美国1 2, server: zh01lv5us01.feiguayun.xyz, port: 33087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇺🇸 美国2 2, server: zh01lv5us02.feiguayun.xyz, port: 33087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇺🇸 美国3 2, server: zh01lv5us03.feiguayun.xyz, port: 33087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇺🇸 美国4, server: zh01lv5us04.feiguayun.xyz, port: 33087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇸🇬 新加坡1 2, server: zh01lv5sgp01.feiguayun.xyz, port: 34087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇸🇬 新加坡2 2, server: zh01lv5sgp02.feiguayun.xyz, port: 34087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇸🇬 新加坡3 2, server: zh01lv5sgp03.feiguayun.xyz, port: 34087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇸🇬 新加坡4, server: zh01lv5sgp04.feiguayun.xyz, port: 34087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇸🇬 新加坡5, server: zh01lv5sgp05.feiguayun.xyz, port: 34087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇬🇧 英国1 2, server: zh01lv5uk01.feiguayun.xyz, port: 35087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇬🇧 英国2 2, server: zh01lv5uk02.feiguayun.xyz, port: 35087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇬🇧 英国4, server: zh01lv5uk04.feiguayun.xyz, port: 35087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
   - {name: 🇩🇪 德国1, server: zh01lv5ge01.feiguayun.xyz, port: 36087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇨🇦 加拿大3, server: zh01lv5ca03.feiguayun.xyz, port: 37087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇩🇪 德国2, server: zh01lv5ge02.feiguayun.xyz, port: 36087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇩🇪 德国3, server: zh01lv5ge03.feiguayun.xyz, port: 36087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇩🇪 德国4, server: zh01lv5ge04.feiguayun.xyz, port: 36087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇩🇪 德国5, server: zh01lv5ge05.feiguayun.xyz, port: 36087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇨🇦 加拿大1, server: zh01lv5ca01.feiguayun.xyz, port: 37087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇨🇦 加拿大2, server: zh01lv5ca02.feiguayun.xyz, port: 37087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇨🇦 加拿大4, server: zh01lv5ca04.feiguayun.xyz, port: 37087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
   - {name: 🇨🇦 加拿大5, server: zh01lv5ca05.feiguayun.xyz, port: 37087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇦🇺 澳大利亚5, server: zh01lv5au05.feiguayun.xyz, port: 39087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇷🇺 俄罗斯 2, server: ru1.nodegz.top, port: 1234, type: trojan, password: a17e1ef5-5172-310e-8687-ddc29063a7e0, sni: ru1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇰🇭 柬埔寨 2, server: kh1.nodegz.top, port: 443, type: trojan, password: a17e1ef5-5172-310e-8687-ddc29063a7e0, sni: kh1.nodegz.top, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 7, server: us1.nodegz.top, port: 443, type: trojan, password: a17e1ef5-5172-310e-8687-ddc29063a7e0, sni: us1.nodegz.top, skip-cert-verify: true, udp: true}
+  - {name: 🇮🇳 印度1, server: zh01lv5in01.feiguayun.xyz, port: 38087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
   - {name: 🇮🇳 印度2, server: zh01lv5in02.feiguayun.xyz, port: 38087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
   - {name: 🇮🇳 印度3, server: zh01lv5in03.feiguayun.xyz, port: 38087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
   - {name: 🇮🇳 印度4, server: zh01lv5in04.feiguayun.xyz, port: 38087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
   - {name: 🇮🇳 印度5, server: zh01lv5in05.feiguayun.xyz, port: 38087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇬🇧 英国2 2, server: zh01lv5uk02.feiguayun.xyz, port: 35087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇬🇧 英国1 2, server: zh01lv5uk01.feiguayun.xyz, port: 35087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇸🇬 新加坡5, server: zh01lv5sgp05.feiguayun.xyz, port: 34087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇬🇧 英国3, server: zh01lv5uk03.feiguayun.xyz, port: 35087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇸🇬 新加坡2 2, server: zh01lv5sgp02.feiguayun.xyz, port: 34087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇸🇬 新加坡1, server: zh01lv5sgp01.feiguayun.xyz, port: 34087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇺🇸 美国2 2, server: zh01lv5us02.feiguayun.xyz, port: 33087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇺🇸 美国1, server: zh01lv5us01.feiguayun.xyz, port: 33087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇺🇸 美国3 2, server: zh01lv5us03.feiguayun.xyz, port: 33087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇺🇸 美国5, server: zh01lv5us05.feiguayun.xyz, port: 33087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇸🇬 新加坡3 2, server: zh01lv5sgp03.feiguayun.xyz, port: 34087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇹🇼 台湾4-Netflix, server: zh01lv5tw04.feiguayun.xyz, port: 31187, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇹🇼 台湾5-Netflix, server: zh01lv5tw05.feiguayun.xyz, port: 31187, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇹🇼 台湾1-Netflix, server: zh01lv5tw01.feiguayun.xyz, port: 31187, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇹🇼 台湾2-Netflix, server: zh01lv5tw02.feiguayun.xyz, port: 31187, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇭🇰 香港8, server: zh01lv5hk08.feiguayun.xyz, port: 31087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇭🇰 香港9, server: zh01lv5hk09.feiguayun.xyz, port: 31087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇭🇰 香港3, server: zh01lv5hk03.feiguayun.xyz, port: 11087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇭🇰 香港1, server: zh01lv5hk01.feiguayun.xyz, port: 11087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇦🇺 澳大利亚1, server: zh01lv5au01.feiguayun.xyz, port: 39087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇦🇺 澳大利亚5, server: zh01lv5au05.feiguayun.xyz, port: 39087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇭🇰 香港2, server: zh01lv5hk02.feiguayun.xyz, port: 11087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇬🇧 英国3 2, server: zh01lv5uk03.feiguayun.xyz, port: 35087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
+  - {name: 🇨🇦 加拿大3, server: zh01lv5ca03.feiguayun.xyz, port: 37087, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
   - {name: US02-V2-直连, server: us02.henet.cyou, port: 20000, type: vmess, uuid: 5e76e32e-5de6-4821-91c3-a10080fade62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
   - {name: SG01-V2-直连, server: sg01.henet.cyou, port: 20000, type: vmess, uuid: 5e76e32e-5de6-4821-91c3-a10080fade62, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
   - {name: HK01-V2-直连, server: hk01.henet.cyou, port: 20000, type: vmess, uuid: 2b4ee262-ce60-442a-9c54-5c2193964113, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
   - {name: TW02-V2-直连, server: tw02.henet.cyou, port: 20000, type: vmess, uuid: 2b4ee262-ce60-442a-9c54-5c2193964113, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
-  - {name: US01-V2-直连, server: us01.henet.cyou, port: 20000, type: vmess, uuid: 2b4ee262-ce60-442a-9c54-5c2193964113, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
   - {name: US02-V2-直连 2, server: us02.henet.cyou, port: 20000, type: vmess, uuid: 2b4ee262-ce60-442a-9c54-5c2193964113, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
   - {name: HK01-V2-直连 2, server: hk01.henet.cyou, port: 20000, type: vmess, uuid: c74f8cfd-bba3-498d-9311-b109e60b94a8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
+  - {name: US01-V2-直连, server: us01.henet.cyou, port: 20000, type: vmess, uuid: 2b4ee262-ce60-442a-9c54-5c2193964113, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
   - {name: US02-V2-直连 3, server: us02.henet.cyou, port: 20000, type: vmess, uuid: c74f8cfd-bba3-498d-9311-b109e60b94a8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
   - {name: SG01-V2-直连 2, server: sg01.henet.cyou, port: 20000, type: vmess, uuid: c74f8cfd-bba3-498d-9311-b109e60b94a8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
-  - {name: TW02-V2-直连 2, server: tw02.henet.cyou, port: 20000, type: vmess, uuid: 7d67ddd5-c6b9-40db-b26f-f51fffc0ba14, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
   - {name: US01-V2-直连 2, server: us01.henet.cyou, port: 20000, type: vmess, uuid: 7d67ddd5-c6b9-40db-b26f-f51fffc0ba14, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
   - {name: SG01-V2-直连 3, server: sg01.henet.cyou, port: 20000, type: vmess, uuid: 108bd7b2-ca95-4560-a82e-c683aac6a7c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
   - {name: US02-V2-直连 4, server: us02.henet.cyou, port: 20000, type: vmess, uuid: 108bd7b2-ca95-4560-a82e-c683aac6a7c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
   - {name: US01-V2-直连 3, server: us01.henet.cyou, port: 20000, type: vmess, uuid: c74f8cfd-bba3-498d-9311-b109e60b94a8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
+  - {name: TW02-V2-直连 2, server: tw02.henet.cyou, port: 20000, type: vmess, uuid: 7d67ddd5-c6b9-40db-b26f-f51fffc0ba14, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
   - {name: HK01-V2-直连 3, server: hk01.henet.cyou, port: 20000, type: vmess, uuid: 108bd7b2-ca95-4560-a82e-c683aac6a7c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
   - {name: US01-V2-直连 4, server: us01.henet.cyou, port: 20000, type: vmess, uuid: 108bd7b2-ca95-4560-a82e-c683aac6a7c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
   - {name: US02-V2-直连 5, server: us02.henet.cyou, port: 20000, type: vmess, uuid: 7d67ddd5-c6b9-40db-b26f-f51fffc0ba14, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
   - {name: SG01-V2-直连 4, server: sg01.henet.cyou, port: 20000, type: vmess, uuid: 9be75dda-8238-46b5-ba87-12e749d693dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
   - {name: US01-V2-直连 5, server: us01.henet.cyou, port: 20000, type: vmess, uuid: 077c13c7-64fd-4355-89d1-b01e99cfe583, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
   - {name: TW01-V2-直连, server: tw01.henet.cyou, port: 20000, type: vmess, uuid: 077c13c7-64fd-4355-89d1-b01e99cfe583, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
-  - {name: US02-V2-直连 6, server: us02.henet.cyou, port: 20000, type: vmess, uuid: 077c13c7-64fd-4355-89d1-b01e99cfe583, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
   - {name: US01-V2-直连 6, server: us01.henet.cyou, port: 20000, type: vmess, uuid: 9be75dda-8238-46b5-ba87-12e749d693dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
-  - {name: US02-V2-直连 7, server: us02.henet.cyou, port: 20000, type: vmess, uuid: 9be75dda-8238-46b5-ba87-12e749d693dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
-  - {name: 🇸🇬 新加坡1 2, server: zh01lv3sgp01.feiguayun.xyz, port: 50031, type: ss, cipher: aes-256-gcm, password: 90a7d86e-6f6a-4230-b89b-03cfd7fe70dc, udp: true}
-  - {name: 🇭🇰 香港特供01, server: lc-hk01-direct01.lc-hk01.lc-node.com, port: 443, type: vmess, uuid: ec736482-173e-3eff-9114-b49df8056e7d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: lc-hk01-direct01.lc-hk01.lc-node.com}}, udp: true}
-  - {name: 🇭🇰 香港特供02, server: lc-hk02-direct01.lc-hk02.lc-node.com, port: 443, type: vmess, uuid: ec736482-173e-3eff-9114-b49df8056e7d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: lc-hk02-direct01.lc-hk02.lc-node.com}}, udp: true}
-  - {name: 🇭🇰 香港特供03, server: lc-hk03-direct01.lc-hk03.lc-node.com, port: 443, type: vmess, uuid: ec736482-173e-3eff-9114-b49df8056e7d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: lc-hk03-direct01.lc-hk03.lc-node.com}}, udp: true}
-  - {name: 🇭🇰 香港特供04, server: lc-hk04-direct01.lc-hk04.lc-node.com, port: 443, type: vmess, uuid: ec736482-173e-3eff-9114-b49df8056e7d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: lc-hk04-direct01.lc-hk04.lc-node.com}}, udp: true}
+  - {name: US02-V2-直连 6, server: us02.henet.cyou, port: 20000, type: vmess, uuid: 9be75dda-8238-46b5-ba87-12e749d693dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
+  - {name: US02-V2-直连 7, server: us02.henet.cyou, port: 20000, type: vmess, uuid: 077c13c7-64fd-4355-89d1-b01e99cfe583, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
