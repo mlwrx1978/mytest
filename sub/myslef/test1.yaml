@@ -502,3 +502,15 @@ proxies:
     obfs: http_simple
     obfs-param: d9eb18459.jd.hk
     udp: true
+  -
+    name: '🇻🇳 越南 4'
+    type: ssr
+    server: ieplszhk-sz.cctelescope.xyz
+    port: 10899
+    cipher: ase-256-cfb
+    password: hGkQ6915tD
+    protocol: auth_aes128_md5
+    protocol-param: '32381:C2pHyiQfgm'
+    obfs: tls1.2_ticket_auth
+    obfs-param: ajax.microsoft.com
+    udp: true
