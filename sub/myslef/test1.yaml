@@ -1,5 +1,5 @@
 proxies:
-  - {name: 有问题咨询TG@beikui_bot, server: hkbgp1.jiantian.xyz, port: 14326, type: trojan, password: 952eeefe-196d-4d67-a447-52577d694f96, sni: hkbgp1.jiantian.xyz, skip-cert-verify: true, udp: true}
+  - {name: beikui_, server: hkbgp1.jiantian.xyz, port: 14326, type: trojan, password: 952eeefe-196d-4d67-a447-52577d694f96, sni: hkbgp1.jiantian.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇯🇵 Amazon_Tokyo, server: 54.65.100.2, port: 44573, type: vmess, uuid: d7ae61b6-c008-4b28-ad87-176ff9547d41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: "🇸🇬 Lv2 新加坡 01 [1.5]", server: ersgdf.passwordv2.com, port: 7400, type: vmess, uuid: de4ad116-f467-439f-bfd1-2a0c835e9742, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: "🇺🇸 Lv2 美国 03 [1.5]", server: lsdrtx.passwordv2.com, port: 7502, type: ss, cipher: aes-128-gcm, password: de4ad116-f467-439f-bfd1-2a0c835e9742, udp: true}
