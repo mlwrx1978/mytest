@@ -1,14 +1,9 @@
 proxies:
-  - {name: beikui_, server: chunchuan-02.aikala.shop, port: 443, type: vmess, uuid: bea6470b-a7b8-465f-b95d-7f0c681dba1a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: down.dingtalk.com}}, udp: true}
   - {name: 🇭🇰 香港, server: trojan.linkdns.xyz, port: 40208, type: trojan, password: a04f6f85-18a7-3f41-8389-663ebae403cf, skip-cert-verify: true, udp: true}
   - {name: beikui, server: 52.140.223.251, port: 55782, type: vmess, uuid: e38a3615-e1b0-46d4-a965-5642ff066430, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: kui, server: s1.hazz.win, port: 12340, type: trojan, password: dfbf0d67-f03d-4184-a224-c2d64a571f99, sni: edge.apple.com, skip-cert-verify: true, udp: true}
-  - {name: kui 2, server: s1.hazz.win, port: 12340, type: trojan, password: dfbf0d67-f03d-4184-a224-c2d64a571f99, sni: edge.apple.com, skip-cert-verify: true, udp: true}
-  - {name: kui 3, server: s1.hazz.win, port: 12340, type: trojan, password: dfbf0d67-f03d-4184-a224-c2d64a571f99, sni: edge.apple.com, skip-cert-verify: true, udp: true}
-  - {name: kui 4, server: s1.hazz.win, port: 12340, type: trojan, password: dfbf0d67-f03d-4184-a224-c2d64a571f99, sni: edge.apple.com, skip-cert-verify: true, udp: true}
   - {name: 🇰🇷 韩国, server: chunchuan-02.aikala.shop, port: 80, type: vmess, uuid: bea6470b-a7b8-465f-b95d-7f0c681dba1a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: down.dingtalk.com}}, udp: true}
   - {name: 🇰🇷 韩国 2, server: chunchuan-01.aikala.shop, port: 80, type: vmess, uuid: bea6470b-a7b8-465f-b95d-7f0c681dba1a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: down.dingtalk.com}}, udp: true}
-  - {name: 🇯🇵 Amazon_Tokyo, server: 54.65.100.2, port: 44573, type: vmess, uuid: d7ae61b6-c008-4b28-ad87-176ff9547d41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 🇯🇵 日本流媒体专用, server: xy114x236x205x89xy.mcdn.bilivideo.life, port: 32340, type: ssr, cipher: chacha20-ietf, password: NZLAIb7anGV3Jrnb, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 1454:ANN4bqEunef35mOH, obfs-param: 0f6c61454.microsoft.com, udp: true}
   - {name: 🇯🇵 日本流媒体专用 2, server: xy114x236x205x89xy.mcdn.bilivideo.life, port: 32342, type: ssr, cipher: chacha20-ietf, password: NZLAIb7anGV3Jrnb, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 1454:ANN4bqEunef35mOH, obfs-param: 0f6c61454.microsoft.com, udp: true}
   - {name: 🇰🇷 韩国流媒体专用, server: xy114x236x205x89xy.mcdn.bilivideo.life, port: 32341, type: ssr, cipher: chacha20-ietf, password: NZLAIb7anGV3Jrnb, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 1454:ANN4bqEunef35mOH, obfs-param: 0f6c61454.microsoft.com, udp: true}
