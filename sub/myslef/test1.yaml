@@ -100,49 +100,8 @@ proxies:
   - {name: beikui 76, server: AZHJ001.xiba1.xyz, port: 20727, type: trojan, password: 13ee7459-3295-3925-8ad2-a663719479ef, sni: ssl.ssl12.xyz, skip-cert-verify: true, udp: true}
   - {name: beikui 77, server: azgy001.xiba1.xyz, port: 6004, type: trojan, password: 13ee7459-3295-3925-8ad2-a663719479ef, sni: ssl.ssl12.xyz, skip-cert-verify: true, udp: true}
   - {name: beikui 78, server: azgy001.xiba1.xyz, port: 6003, type: trojan, password: 13ee7459-3295-3925-8ad2-a663719479ef, sni: ssl.ssl12.xyz, skip-cert-verify: true, udp: true}
-  - {name: beikui 79, server: 120.240.50.223, port: 3600, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 80, server: 120.240.50.223, port: 3601, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 81, server: 120.240.50.223, port: 3602, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 82, server: 120.240.50.223, port: 3603, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 83, server: 120.240.50.223, port: 3604, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 84, server: 120.240.50.223, port: 3605, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 85, server: 120.240.50.223, port: 3606, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 86, server: 120.240.50.223, port: 3607, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 87, server: 120.240.50.223, port: 3608, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 88, server: 120.240.50.227, port: 3600, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 89, server: 120.240.50.227, port: 3601, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 90, server: 120.240.50.227, port: 3602, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 91, server: 120.240.50.227, port: 3603, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 92, server: 120.240.50.227, port: 3604, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 93, server: 120.240.50.227, port: 3605, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 94, server: 120.240.50.227, port: 3606, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 95, server: 120.240.50.227, port: 3607, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 96, server: 120.240.50.227, port: 3608, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 97, server: 120.240.50.227, port: 3609, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 98, server: 120.240.50.225, port: 5600, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 99, server: 120.240.50.225, port: 5601, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 100, server: 120.240.50.225, port: 5603, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 101, server: 120.240.50.248, port: 5600, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 102, server: 120.240.50.248, port: 5601, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 103, server: 120.240.50.248, port: 5602, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 104, server: 120.240.50.225, port: 4600, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 105, server: 120.240.50.225, port: 4601, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 106, server: 120.240.50.225, port: 4602, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 107, server: 120.240.50.225, port: 4603, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 108, server: 120.240.50.248, port: 4601, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 109, server: 120.240.50.248, port: 4602, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 110, server: 120.240.50.248, port: 4603, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 111, server: 120.240.50.225, port: 3026, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 112, server: 120.240.50.225, port: 3036, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 113, server: 120.240.50.225, port: 3046, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 114, server: 120.240.50.248, port: 3026, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 115, server: 120.240.50.248, port: 3036, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 116, server: 120.240.50.248, port: 3046, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 117, server: 120.240.50.225, port: 6600, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 118, server: 120.240.50.225, port: 6601, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 119, server: 120.240.50.225, port: 6602, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 120, server: 120.240.50.225, port: 6603, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 121, server: 120.240.50.248, port: 6600, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 122, server: 120.240.50.248, port: 6601, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 123, server: 120.240.50.248, port: 6602, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
-  - {name: beikui 124, server: 120.240.50.248, port: 6603, type: ss, cipher: rc4-md5, password: RenzheCloudSS, plugin: obfs, plugin-opts: {mode: http, host: 23923152006.microsoft.com}, udp: true}
+  - {name: 🇮🇳 IN-01-TR-1x, server: in-01.licom.ml, port: 8443, type: trojan, password: ce433528-39fa-4711-bc0d-25a5b1579574, sni: in-01.licom.ml, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 SG-01-TR-1x, server: sg-01.licom.ml, port: 8443, type: trojan, password: ce433528-39fa-4711-bc0d-25a5b1579574, sni: sg-01.licom.ml, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 SG-03-TR-1x, server: sg-03.licom.ml, port: 8443, type: trojan, password: ce433528-39fa-4711-bc0d-25a5b1579574, sni: sg-03.licom.ml, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 SG-04-TR-1x, server: sg-04.licom.ml, port: 8443, type: trojan, password: ce433528-39fa-4711-bc0d-25a5b1579574, sni: sg-04.licom.ml, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 SG-02-TR-1x, server: sg-02.licom.ml, port: 8443, type: trojan, password: ce433528-39fa-4711-bc0d-25a5b1579574, sni: sg-02.licom.ml, skip-cert-verify: true, udp: true}
