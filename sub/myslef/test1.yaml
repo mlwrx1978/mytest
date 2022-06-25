@@ -1,5 +1,5 @@
 proxies:
-  - {name: 有问题咨询TG  @beikui_bot, server: usfree2.jiantian.xyz, port: 32462, type: trojan, password: 952eeefe-196d-4d67-a447-52577d694f96, sni: usfree2.jiantian.xyz, skip-cert-verify: true, udp: true}
+  - {name: beikui_, server: usfree2.jiantian.xyz, port: 32462, type: trojan, password: 952eeefe-196d-4d67-a447-52577d694f96, sni: usfree2.jiantian.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国, server: v19.emovpn.xyz, port: 127, type: vmess, uuid: 55db94f9-16ce-46c4-ba31-7541f9e544ad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pull.free.video.10010.com}}, udp: true}
   - {name: 🇹🇼 台湾Hinet～广州移动 | 解锁流媒体, server: 183.232.230.214, port: 49871, type: ss, cipher: chacha20-ietf-poly1305, password: d19e6167-09b4-431b-803b-77556c7f0aba, udp: true}
   - {name: 🇹🇼 台湾-1号 | 解锁流媒体, server: 165.154.243.208, port: 28000, type: trojan, password: d19e6167-09b4-431b-803b-77556c7f0aba, sni: huayun.xyz, skip-cert-verify: true, udp: true}
