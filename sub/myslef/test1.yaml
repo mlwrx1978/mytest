@@ -3,7 +3,6 @@ proxies:
   - {name: 🇭🇰 香港, server: 20.205.96.90, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true}
   - {name: 🇭🇰 香港 2, server: 20.247.99.77, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true}
   - {name: 🇰🇷 韩国, server: 36.139.154.162, port: 45303, type: trojan, password: 45a02ace-0d89-45a8-92a1-ecaf81d870b9, sni: hg01.chunyua.online, skip-cert-verify: true, udp: true}
-  - {name: 🇭🇰 香港 3, server: 20.205.99.51, port: 50517, type: ss, cipher: chacha20-ietf-poly1305, password: cGw2a0dlRVVvZThmZndFTGUxR0VRUVdQWVBMQUthYWo=, udp: true}
   - {name: 🇭🇰 香港 4, server: fast.xiaokuawa.cf, port: 443, type: vmess, uuid: c5be13c3-9515-4e1a-c3b5-8e01c44235b0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: node.xiaokuawa.cf}}, udp: true}
   - {name: 🇺🇸 美国, server: 119.36.161.40, port: 443, type: vmess, uuid: 5e38275e-f168-11ec-a6d0-42010a800003, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /HbedXBnw/, headers: {Host: us.batcloud.bond}}, udp: true}
   - {name: 🇭🇰 HK, server: 20.205.96.90, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true}
