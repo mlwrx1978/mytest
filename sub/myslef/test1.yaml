@@ -1,3 +1,4 @@
+proxies:
   - {name: beikui_, server: 154.17.25.101, port: 47577, type: ss, cipher: aes-256-gcm, password: !<str> 93915109, udp: true}
   - {name: 🇺🇸 美国, server: v20.emovpn.xyz, port: 1256, type: vmess, uuid: 30fd975c-5bbb-4502-96f1-b01cec401de1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pull.free.video.10010.com}}, udp: true}
   - {name: 🇭🇰 香港, server: 20.239.176.94, port: 443, type: vmess, uuid: 4adf9138-5aca-4a26-b217-335e72bb680d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
