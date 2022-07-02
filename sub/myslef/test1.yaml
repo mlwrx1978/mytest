@@ -37,7 +37,6 @@
   - {name: 🇯🇵 JP 48 TJN, server: 164.70.68.67, port: 28443, type: trojan, password: 841b229a-304f-46a2-a0fe-3b4e3e0e44f6, sni: huayun.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇨🇳 CN 306 TJN, server: gzyd2.52147.top, port: 30130, type: trojan, password: 52a98419-efab-4c34-b4cc-4e2a7bc37029, sni: huayun.xyz, skip-cert-verify: true, udp: true}
   - {name: 🇯🇵 JP 358 TJN, server: 203.138.98.199, port: 28443, type: trojan, password: 841b229a-304f-46a2-a0fe-3b4e3e0e44f6, sni: huayun.xyz, skip-cert-verify: true, udp: true}
-  - {name: beikui 88, server: janpanbpjcyos.loseyourip.com, port: 29471, type: vmess, uuid: 9b29114b-723b-40ca-bc2b-e3f97d43534d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /images, headers: {Host: "v.qq.com"}}, udp: true}
   - {name: beikui 10, server: 203.138.98.199, port: 28443, type: trojan, password: 841b229a-304f-46a2-a0fe-3b4e3e0e44f6, sni: huayun.xyz, skip-cert-verify: true, udp: true}
   - {name: beikui 3 2, server: 203.138.98.199, port: 28443, type: trojan, password: 841b229a-304f-46a2-a0fe-3b4e3e0e44f6, sni: huayun.xyz, skip-cert-verify: true, udp: true}
   - {name: beikui 4 2, server: 164.70.68.67, port: 28443, type: trojan, password: 841b229a-304f-46a2-a0fe-3b4e3e0e44f6, sni: huayun.xyz, skip-cert-verify: true, udp: true}
