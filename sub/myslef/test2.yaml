@@ -1,5 +1,5 @@
 proxies:
-  - {name: 高速节点tg@moneyflychat, server: azhj001.xiba1.xyz, port: 20718, type: trojan, password: edf44557-5aa8-3af5-8710-634e1516782a, sni: azhj001.xiba1.xyz, skip-cert-verify: true, udp: true}
+  - {name: 高速节点, server: azhj001.xiba1.xyz, port: 20718, type: trojan, password: edf44557-5aa8-3af5-8710-634e1516782a, sni: azhj001.xiba1.xyz, skip-cert-verify: true, udp: true}
   - {name: 高速节点2, server: azhj001.xiba1.xyz, port: 20725, type: trojan, password: edf44557-5aa8-3af5-8710-634e1516782a, sni: azhj001.xiba1.xyz, skip-cert-verify: true, udp: true}
   - {name: 高速节点3, server: azhj001.xiba1.xyz, port: 20722, type: trojan, password: edf44557-5aa8-3af5-8710-634e1516782a, sni: azhj001.xiba1.xyz, skip-cert-verify: true, udp: true}
   - {name: 高速节点4, server: azhj001.xiba1.xyz, port: 20720, type: trojan, password: 5abd9b83-295e-35e4-b0b3-deed61eea35f, sni: azhj001.xiba1.xyz, skip-cert-verify: true, udp: true}
