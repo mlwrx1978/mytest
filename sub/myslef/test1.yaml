@@ -1,5 +1,4 @@
 proxies:
-  - {name: beikui_, server: 120.232.132.71, port: 25680, type: trojan, password: Mfd9ca63, sni: cdnt71.dt1.fun, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 新加坡, server: 119.36.161.40, port: 443, type: vmess, uuid: aa981c3d-e931-4c0f-aa4a-01d2409cc5bd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /howdy, headers: {Host: v2ray3.udpgw.com}}, udp: true}
   - {name: 🇺🇸 美国, server: 23.224.31.213, port: 443, type: vmess, uuid: d0e22005-b9fe-4bbc-81a3-27c52d4927a4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/290016213035, headers: {Host: www.68497352.xyz}}, udp: true}
   - {name: 🇺🇸 美国 2, server: 23.224.31.44, port: 443, type: vmess, uuid: 2278efe4-ad0c-47ce-9480-068608368d76, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/290016213035, headers: {Host: www.69909817.xyz}}, udp: true}
@@ -18,15 +17,6 @@ proxies:
   - {name: beikui 11, server: 85.208.108.93, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
   - {name: beikui 12, server: id2-trojan.bonds.id, port: 443, type: trojan, password: 800b1ec0-f8d5-11ec-ab6a-1239d0255272, sni: web.web.whatsapp.com, skip-cert-verify: true, udp: true}
   - {name: beikui 13, server: 85.208.108.93, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-  - {name: beikui 14, server: ftp.cn.debian.cdnet.in, port: 8030, type: ss, cipher: aes-128-gcm, password: 20f047fe-00e0-408b-bd9a-e6b709b35ef1, udp: true}
-  - {name: beikui 15, server: ftp.cn.debian.cdnet.in, port: 8040, type: ss, cipher: aes-128-gcm, password: 20f047fe-00e0-408b-bd9a-e6b709b35ef1, udp: true}
-  - {name: beikui 16, server: ftp.cn.debian.cdnet.in, port: 8050, type: ss, cipher: aes-128-gcm, password: 20f047fe-00e0-408b-bd9a-e6b709b35ef1, udp: true}
-  - {name: beikui 17, server: ftp.cn.debian.cdnet.in, port: 8060, type: ss, cipher: aes-128-gcm, password: 20f047fe-00e0-408b-bd9a-e6b709b35ef1, udp: true}
-  - {name: beikui 18, server: ftp.cn.debian.cdnet.in, port: 8070, type: ss, cipher: aes-128-gcm, password: 20f047fe-00e0-408b-bd9a-e6b709b35ef1, udp: true}
-  - {name: 🇺🇸 美国5-全网优化, server: 5us.pronetworklink.net, port: 443, type: trojan, password: d222c34a-5a93-4d9a-bb90-57ef0975207b, skip-cert-verify: true, udp: true}
-  - {name: 🇭🇰 香港2-电信/联通, server: 2hk.pronetworklink.net, port: 443, type: trojan, password: d222c34a-5a93-4d9a-bb90-57ef0975207b, skip-cert-verify: true, udp: true}
-  - {name: 🇯🇵 日本18-全网优化, server: 18jp.pronetworklink.net, port: 443, type: trojan, password: ac0e4323-d13e-4211-a698-3fe13353c577, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国26-全网优化, server: 26us.pronetworklink.net, port: 443, type: trojan, password: ac0e4323-d13e-4211-a698-3fe13353c577, skip-cert-verify: true, udp: true}
   - {name: HK01-V2-直连, server: hk01.henet.cyou, port: 20000, type: vmess, uuid: 0cdb2cb8-de0d-49ab-a4e3-50f2dfad1a77, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
   - {name: TW01-V2-直连, server: tw01.henet.cyou, port: 20000, type: vmess, uuid: 0cdb2cb8-de0d-49ab-a4e3-50f2dfad1a77, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
   - {name: US01-V2-直连, server: us01.henet.cyou, port: 20000, type: vmess, uuid: 0cdb2cb8-de0d-49ab-a4e3-50f2dfad1a77, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
@@ -53,5 +43,3 @@ proxies:
   - {name: beikui 11 2, server: ss2.2046.gq, port: 4443, type: trojan, password: bfbd5c7f-2c23-44fd-8393-d0da67b23a49, sni: ss2.2046.gq, skip-cert-verify: true, udp: true}
   - {name: 🇯🇵 日本, server: janpanbpjcyos.loseyourip.com, port: 29471, type: vmess, uuid: 3c3c1285-303a-4a91-b97f-6fbf48ea998d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /images, headers: {Host: v.qq.com}}, udp: true}
   - {name: 🇹🇼 台湾, server: bpjcjapan.loseyourip.com, port: 12343, type: vmess, uuid: 3c3c1285-303a-4a91-b97f-6fbf48ea998d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /images, headers: {Host: v.qq.com}}, udp: true}
-  - {name: 🇭🇰 香港, server: bpjchongkong.kozow.com, port: 12351, type: vmess, uuid: 3c3c1285-303a-4a91-b97f-6fbf48ea998d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /images, headers: {Host: v.qq.com}}, udp: true}
-  - {name: 🇭🇰 香港 2, server: bpjchongkong.kozow.com, port: 12347, type: vmess, uuid: 3c3c1285-303a-4a91-b97f-6fbf48ea998d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /images, headers: {Host: v.qq.com}}, udp: true}
