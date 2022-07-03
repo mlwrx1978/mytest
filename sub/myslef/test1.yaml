@@ -1,5 +1,4 @@
 proxies:
-  - {name: beikui_, server: 120.232.132.71, port: 25680, type: trojan, password: Mfd9ca63, sni: cdnt71.dt1.fun, skip-cert-verify: true, udp: true}
   - {name: 🇸🇬 新加坡, server: 119.36.161.40, port: 443, type: vmess, uuid: aa981c3d-e931-4c0f-aa4a-01d2409cc5bd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /howdy, headers: {Host: v2ray3.udpgw.com}}, udp: true}
   - {name: 🇺🇸 美国, server: 23.224.9.90, port: 443, type: vmess, uuid: bb25859e-f6da-4101-989f-b4dd67a22682, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/290016213035, headers: {Host: www.92259471.xyz}}, udp: true}
   - {name: 🇺🇸 美国 2, server: 23.224.31.213, port: 443, type: vmess, uuid: d0e22005-b9fe-4bbc-81a3-27c52d4927a4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/290016213035, headers: {Host: www.68497352.xyz}}, udp: true}
