@@ -1,7 +1,7 @@
 proxies:
   - {name: beikui_, server: 120.232.132.71, port: 25680, type: trojan, password: Mfd9ca63, sni: cdnt71.dt1.fun, skip-cert-verify: true, udp: true}
   - {name: clash策略组, server: 120.232.132.71, port: 25680, type: trojan, password: Mfd9ca63, sni: cdnt71.dt1.fun, skip-cert-verify: true, udp: true}
-  - {name: 用tcp不准, server: 158.69.167.203, port: 8080, type: vmess, uuid: 1b32668c-452f-40c3-c21c-ae3b7e4a5e64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 小火箭tcp不准, server: 158.69.167.203, port: 8080, type: vmess, uuid: 1b32668c-452f-40c3-c21c-ae3b7e4a5e64, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
   - {name: beikui, server: aic5ucu1.nodeinfo.icu, port: 6021, type: ssr, cipher: chacha20-ietf, password: di15PV, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 192073:D1ZGOg, obfs-param: cb12f192073.www.gov.hk, udp: true}
   - {name: beikui 2, server: gee3ahy3.nodeinfo.icu, port: 1128, type: ssr, cipher: rc4-md5, password: di15PV, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 192073:D1ZGOg, obfs-param: cb12f192073.www.gov.hk, udp: true}
   - {name: beikui 3, server: iux7shis.nodeinfo.icu, port: 6006, type: ssr, cipher: chacha20-ietf, password: di15PV, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 192073:D1ZGOg, obfs-param: cb12f192073.www.gov.hk, udp: true}
@@ -119,3 +119,5 @@ proxies:
   - {name: "🇭🇰 [LV2·原生] 香港B4 | 中转 2", server: pp1.zhengzhongfeizhu.xyz, port: 32003, type: trojan, password: eb2f8154-ff58-3b99-b393-28c8eecdbe64, sni: ip3884414509.mobgslb.tbcache.com, skip-cert-verify: true, udp: true}
   - {name: beikui分享（免流节点）, server: chaogei6666.ducun.club, port: 80, type: vmess, uuid: 49ba5781-782a-4ef5-89ee-d86369b3949b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: beikui分享（免流节点） 2, server: chaogei6667.ducun.club, port: 80, type: vmess, uuid: bbe7ee48-7eb0-4b06-ca8f-b5a9c5e91390, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: beikui 78, server: s1.hazz.win, port: 12340, type: trojan, password: dfbf0d67-f03d-4184-a224-c2d64a571f99, sni: edge.apple.com, skip-cert-verify: true, udp: true}
+  - {name: beikui 79, server: s3.hazz.win, port: 12340, type: trojan, password: dfbf0d67-f03d-4184-a224-c2d64a571f99, sni: edge.apple.com, skip-cert-verify: true, udp: true}
