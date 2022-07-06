@@ -1,2 +1,2 @@
 proxies:
-  - {"type":"ssr","name":"🇨🇳_CN","server":"in01.govrun.work","port":8071,"protocol":"auth_aes128_md5","cipher":"aes-256-cfb","obfs":"http_simple","password":"LjtFzy","obfs-param":"WVRZM01EWXhPRFE0TVRVdWJXbGpjbTl6YjJaMExtTnZiUQ","protocol-param":"184815:YUz5TV"}
+  - {"type":"ssr","name":"🇨🇳 CN1","server":"in01.govrun.work","port":8071,"protocol":"auth_aes128_md5","cipher":"aes-256-cfb","obfs":"http_simple","password":"LjtFzy","obfs-param":"WVRZM01EWXhPRFE0TVRVdWJXbGpjbTl6YjJaMExtTnZiUQ","protocol-param":"184815:YUz5TV"}
