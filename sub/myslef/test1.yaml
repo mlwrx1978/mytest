@@ -1,4 +1,2 @@
 proxies:
-  - {"type":"vmess","name":"香港HKT","ws-opts":{"path":"/"},"server":"t.mjmjmjmj.cyou","port":16620,"uuid":"4a18be66-03ec-4f7b-95e4-622896fe377d","alterId":0,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"香港宽频02","ws-opts":{"path":"/clientarea","headers":{"host":"hkbn02.xc100.net"}},"server":"hkbn02.xc100.net","port":64443,"uuid":"0c7f9266-b83d-473f-b985-62cf119a4d67","alterId":1,"cipher":"auto","network":"ws","tls":true}
-  - {"type":"ssr","name":"IEPL香港01","server":"z00001.security-cloudfront-cdn.com","port":41100,"protocol":"origin","cipher":"aes-256-cfb","obfs":"http_simple","password":"D6z8QAbojsSMI7Fq","obfs-param":"d3d3Lm1pY3Jvc29mdC5jb20jVXNlci1BZ2VudDogTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxMV80XzEgbGlrZSBNYWMgT1MgWCkgQXBwbGVXZWJLaXQvNjAyLjQuNiAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vMTAuMCBNb2JpbGUvMTREMjcgTWljcm9NZXNzZW5nZXIvNi41LjEzCkFjY2VwdDogLwpDb25uZWN0aW9uOiBrZWVwLWFsaXZl"}
+  - {"type":"trojan","name":"🇭🇰香港HKT","server":"hkt.52147.top","port":38000,"password":"ecec1292-b7a0-4547-beb3-b23cf7a9edc9","udp":true,"skip-cert-verify":true,"sni":"www.download.windowsupdate.lol"}
