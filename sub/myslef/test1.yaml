@@ -1,35 +1,36 @@
-vmess://eyJhZGQiOiJiZXN0MDMuZG93bmxvYWRtb3ZpZS5jbiIsInYiOjIsInBzIjoi8J+HqvCfh7jopb/nj63niZkiLCJwb3J0IjoiNjUwODgiLCJpZCI6IjAyNTNiNTc0LTgwMjAtMzE4Ni1hNjQ3LTAyNjcyOTVhYzliYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwicGF0aCI6Ii9yb2NrZXQifQ==
-vmess://eyJhZGQiOiJiZXN0MDMuZG93bmxvYWRtb3ZpZS5jbiIsInYiOjIsInBzIjoi8J+HrvCfh7Hku6XoibLliJdfMSIsInBvcnQiOiI2NTA5NiIsImlkIjoiMDI1M2I1NzQtODAyMC0zMTg2LWE2NDctMDI2NzI5NWFjOWJiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwYXRoIjoiL3JvY2tldCJ9
-vmess://eyJhZGQiOiJiZXN0MDEuZG93bmxvYWRtb3ZpZS5jbiIsInYiOjIsInBzIjoi8J+HqfCfh6rlvrflm70iLCJwb3J0IjoiNjUwOTUiLCJpZCI6IjAyNTNiNTc0LTgwMjAtMzE4Ni1hNjQ3LTAyNjcyOTVhYzliYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwicGF0aCI6Ii9yb2NrZXQifQ==
-vmess://eyJhZGQiOiJiZXN0MDQuZG93bmxvYWRtb3ZpZS5jbiIsInYiOjIsInBzIjoi8J+HsfCfh7vmi4nohLHnu7TkupoiLCJwb3J0IjoiNjUwNzgiLCJpZCI6IjAyNTNiNTc0LTgwMjAtMzE4Ni1hNjQ3LTAyNjcyOTVhYzliYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwicGF0aCI6Ii9yb2NrZXQifQ==
-vmess://eyJhZGQiOiJiZXN0MDMuZG93bmxvYWRtb3ZpZS5jbiIsInYiOjIsInBzIjoi8J+HrPCfh6foi7Hlm71fMSIsInBvcnQiOiI2NTAzMSIsImlkIjoiMDI1M2I1NzQtODAyMC0zMTg2LWE2NDctMDI2NzI5NWFjOWJiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwYXRoIjoiL3JvY2tldCJ9
-vmess://eyJhZGQiOiJhdXRvLW1vYmxlLmRvd25sb2FkbW92aWUuY24iLCJ2IjoyLCJwcyI6IvCfh7nwn4e85Y+w5rm+IiwicG9ydCI6IjY1MDIyIiwiaWQiOiIwMjUzYjU3NC04MDIwLTMxODYtYTY0Ny0wMjY3Mjk1YWM5YmIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsInBhdGgiOiIvcm9ja2V0In0=
-vmess://eyJhZGQiOiJiZXN0MDIuZG93bmxvYWRtb3ZpZS5jbiIsInYiOjIsInBzIjoi8J+HqPCfh7HmmbrliKkiLCJwb3J0IjoiNjUwOTciLCJpZCI6IjAyNTNiNTc0LTgwMjAtMzE4Ni1hNjQ3LTAyNjcyOTVhYzliYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwicGF0aCI6Ii9yb2NrZXQifQ==
-vmess://eyJhZGQiOiJiZXN0MDEuZG93bmxvYWRtb3ZpZS5jbiIsInYiOjIsInBzIjoi8J+HqPCfh6bliqDmi7/lpKciLCJwb3J0IjoiNjUwMDciLCJpZCI6IjAyNTNiNTc0LTgwMjAtMzE4Ni1hNjQ3LTAyNjcyOTVhYzliYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwicGF0aCI6Ii9yb2NrZXQifQ==
-vmess://eyJhZGQiOiJiZXN0MDEuZG93bmxvYWRtb3ZpZS5jbiIsInYiOjIsInBzIjoi8J+HrvCfh7Hku6XoibLliJdfMiIsInBvcnQiOiI2NTA5NiIsImlkIjoiMDI1M2I1NzQtODAyMC0zMTg2LWE2NDctMDI2NzI5NWFjOWJiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwYXRoIjoiL3JvY2tldCJ9
-vmess://eyJhZGQiOiI1MS44MS4yMjMuMjEiLCJ2IjoyLCJwcyI6IvCfh7rwn4e4576O5Zu9XzEiLCJwb3J0IjoiNDQzIiwiaWQiOiJjMDE1NjQ1MS00ZWZiLTQ1ZTItODRmYy04ZDMxNWM0NjUwZGIiLCJhaWQiOiIzMiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIn0=
-vmess://eyJhZGQiOiIxNjguMTM4LjIwOC4xNDUiLCJ2IjoyLCJwcyI6IvCfh6/wn4e15pel5pysIiwicG9ydCI6IjU2ODE2IiwiaWQiOiI4NmFjYTE5Zi1kMjNiLTRmMDgtOTY3Ny1hMDYxYjcyODJiYjkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ==
-vmess://eyJhZGQiOiJiZXN0MDQuZG93bmxvYWRtb3ZpZS5jbiIsInYiOjIsInBzIjoi8J+HqPCfh7PkuK3lm71fMSIsInBvcnQiOiI2NTA3MCIsImlkIjoiMDI1M2I1NzQtODAyMC0zMTg2LWE2NDctMDI2NzI5NWFjOWJiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwYXRoIjoiL3JvY2tldCJ9
-vmess://eyJhZGQiOiJiZXN0MDEuZG93bmxvYWRtb3ZpZS5jbiIsInYiOjIsInBzIjoi8J+HqPCfh7PkuK3lm71fMiIsInBvcnQiOiI2NTA3MCIsImlkIjoiMDI1M2I1NzQtODAyMC0zMTg2LWE2NDctMDI2NzI5NWFjOWJiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwYXRoIjoiL3JvY2tldCJ9
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDM4Ljc1LjEzNi4yMTo2Njc5#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD_2
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDM4LjExNC4xMTQuMTk6ODA5MQ==#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD_3
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMzguNzUuMTM2LjIxOjkxMDI=#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD_4
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAMzguNjguMTM0Ljg1OjgwMDk=#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD_5
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE2Ny44OC42MS41MDoyMzc1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD_6
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDE2Ny44OC42MS41MDo4MDkx#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD_7
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMzguNzUuMTM2LjIxOjMzODk=#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD_8
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDE2Ny44OC42MS41MDo4MTE5#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD_9
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDM4LjY4LjEzNC44NTo4MTE4#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD_10
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDE2Ny44OC42MS41MDo1MDA0#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD_11
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2QDM4Ljc1LjEzNi4xMDI6NjM3OQ==#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD_12
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMzguMTIxLjQzLjcxOjkxMDE=#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD_13
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDU0LjM2LjE3NC4xODE6ODExOQ==#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD_2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTY3Ljg4LjYxLjI6ODA3#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD_14
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMzguNjguMTM1LjE4OjU2MDE=#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD_15
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMzguNjguMTM0Ljg1OjkxMDI=#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD_16
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMzguNzUuMTM2LjEwMjo5MTAx#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD_17
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDM4LjY4LjEzNC44NToyMzc1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD_18
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDM4Ljc1LjEzNi4xMDI6NjY5Nw==#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD_19
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDM4LjY4LjEzNS4xODo2Njk3#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD_20
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDM4Ljc1LjEzNi4xMDI6ODA5MA==#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD_21
-trojan://9a2c5cc6ef@www.nubility.ml:443?sni=www.nubility.ml#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD_22
+proxies:
+  - {"type":"vmess","name":"🇪🇸西班牙","ws-opts":{"path":"/rocket"},"server":"best03.downloadmovie.cn","port":"65088","uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇮🇱以色列_1","ws-opts":{"path":"/rocket"},"server":"best03.downloadmovie.cn","port":"65096","uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇩🇪德国","ws-opts":{"path":"/rocket"},"server":"best01.downloadmovie.cn","port":"65095","uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇱🇻拉脱维亚","ws-opts":{"path":"/rocket"},"server":"best04.downloadmovie.cn","port":"65078","uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇬🇧英国_1","ws-opts":{"path":"/rocket"},"server":"best03.downloadmovie.cn","port":"65031","uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇹🇼台湾","ws-opts":{"path":"/rocket"},"server":"auto-moble.downloadmovie.cn","port":"65022","uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇨🇱智利","ws-opts":{"path":"/rocket"},"server":"best02.downloadmovie.cn","port":"65097","uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇨🇦加拿大","ws-opts":{"path":"/rocket"},"server":"best01.downloadmovie.cn","port":"65007","uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇮🇱以色列_2","ws-opts":{"path":"/rocket"},"server":"best01.downloadmovie.cn","port":"65096","uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇺🇸美国_1","server":"51.81.223.21","port":"443","uuid":"c0156451-4efb-45e2-84fc-8d315c4650db","alterId":"32","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇯🇵日本","server":"168.138.208.145","port":"56816","uuid":"86aca19f-d23b-4f08-9677-a061b7282bb9","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇨🇳中国_1","ws-opts":{"path":"/rocket"},"server":"best04.downloadmovie.cn","port":"65070","uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇨🇳中国_2","ws-opts":{"path":"/rocket"},"server":"best01.downloadmovie.cn","port":"65070","uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"🇺🇸美国_2","server":"38.75.136.21","port":6679,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"type":"ss","name":"🇺🇸美国_3","server":"38.114.114.19","port":8091,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+  - {"type":"ss","name":"🇺🇸美国_4","server":"38.75.136.21","port":9102,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
+  - {"type":"ss","name":"🇺🇸美国_5","server":"38.68.134.85","port":8009,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
+  - {"type":"ss","name":"🇺🇸美国_6","server":"167.88.61.50","port":2375,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+  - {"type":"ss","name":"🇺🇸美国_7","server":"167.88.61.50","port":8091,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+  - {"type":"ss","name":"🇺🇸美国_8","server":"38.75.136.21","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"🇺🇸美国_9","server":"167.88.61.50","port":8119,"cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
+  - {"type":"ss","name":"🇺🇸美国_10","server":"38.68.134.85","port":8118,"cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
+  - {"type":"ss","name":"🇺🇸美国_11","server":"167.88.61.50","port":5004,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"ss","name":"🇺🇸美国_12","server":"38.75.136.102","port":6379,"cipher":"aes-256-gcm","password":"zDNVedRFPQexG9v"}
+  - {"type":"ss","name":"🇺🇸美国_13","server":"38.121.43.71","port":9101,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
+  - {"type":"ss","name":"🇬🇧英国_2","server":"54.36.174.181","port":8119,"cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
+  - {"type":"ss","name":"🇺🇸美国_14","server":"167.88.61.2","port":807,"cipher":"chacha20-ietf-poly1305","password":"G!yBwPWH3Vao"}
+  - {"type":"ss","name":"🇺🇸美国_15","server":"38.68.135.18","port":5601,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"🇺🇸美国_16","server":"38.68.134.85","port":9102,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
+  - {"type":"ss","name":"🇺🇸美国_17","server":"38.75.136.102","port":9101,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
+  - {"type":"ss","name":"🇺🇸美国_18","server":"38.68.134.85","port":2375,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+  - {"type":"ss","name":"🇺🇸美国_19","server":"38.75.136.102","port":6697,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"type":"ss","name":"🇺🇸美国_20","server":"38.68.135.18","port":6697,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"type":"ss","name":"🇺🇸美国_21","server":"38.75.136.102","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+  - {"type":"trojan","name":"🇺🇸美国_22","server":"www.nubility.ml","port":443,"password":"9a2c5cc6ef","udp":true,"skip-cert-verify":true,"sni":"www.nubility.ml"}
