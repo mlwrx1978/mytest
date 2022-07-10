@@ -1,65 +1,12 @@
 proxies:
-  - {name: beikui, server: 03.youzi.pro, port: 443, type: trojan, password: 99a083ad-734c-4583-8cdd-9e4658ec390e, sni: karyl.cloud, skip-cert-verify: true, udp: true}
-  - {name: beikui 2, server: 207.2.120.172, port: 443, type: trojan, password: a786ad3c-0aec-3751-aa72-67a380c9da42, sni: 20020517.luohuaxian.xyz, skip-cert-verify: true, udp: true}
   - {name: beikui 3, server: 45.137.97.205, port: 443, type: trojan, password: 20285447-9d23-3fee-a6aa-f8f2bb3edec3, sni: 20020526.luohuaxian.xyz, skip-cert-verify: true, udp: true}
-  - {name: beikui 4, server: 20.89.140.237, port: 80, type: trojan, password: c5300851-4bca-3a1d-94a2-33ff203d3827, sni: jp5.daydaygeek.icu, skip-cert-verify: true, udp: true}
-  - {name: beikui 5, server: hk16.bp777.buzz, port: 21665, type: vmess, uuid: d897041a-17d2-4942-a631-4ad28586add2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hk16.bp777.buzz}}, udp: true}
-  - {name: beikui 6, server: 165.154.235.49, port: 443, type: trojan, password: cd10d125-cd96-3cda-9a0c-a3ca3d1f6558, sni: 20020627.luohuaxian.xyz, skip-cert-verify: true, udp: true}
   - {name: beikui 7, server: 45.137.97.205, port: 443, type: trojan, password: 7f649ad2-c55d-3ece-95f0-0a7d66d1d718, sni: 20020526.luohuaxian.xyz, skip-cert-verify: true, udp: true}
   - {name: beikui 8, server: 45.137.97.205, port: 443, type: trojan, password: 22816dda-617f-3e63-a9a2-cee703fef5d9, sni: 20020526.luohuaxian.xyz, skip-cert-verify: true, udp: true}
-  - {name: beikui 9, server: 207.2.120.172, port: 443, type: trojan, password: 538d46db-3a7d-3d1d-83ae-97d0553c959a, sni: 20020517.luohuaxian.xyz, skip-cert-verify: true, udp: true}
-  - {name: beikui 10, server: 165.154.235.49, port: 443, type: trojan, password: 94bace82-c065-3952-8463-678f729db359, sni: 20020627.luohuaxian.xyz, skip-cert-verify: true, udp: true}
-  - {name: beikui 11, server: 165.154.235.49, port: 443, type: trojan, password: 73f33ba5-bb27-362a-8709-24fe6a6b6577, sni: 20020627.luohuaxian.xyz, skip-cert-verify: true, udp: true}
-  - {name: beikui 12, server: 20.222.34.96, port: 20011, type: vmess, uuid: f739858b-f10f-3aaa-8229-048720a9c29b, alterId: 0, cipher: chacha20-poly1305, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /public, headers: {Host: jp2.daydaygeek.icu}}, udp: true}
   - {name: beikui 13, server: 45.137.97.205, port: 443, type: trojan, password: 06061eb0-3a61-3fe3-be60-2527c3a8b87b, sni: 20020526.luohuaxian.xyz, skip-cert-verify: true, udp: true}
   - {name: beikui 14, server: 20.89.140.237, port: 80, type: trojan, password: 2e54f411-a718-313d-9902-72c34f7bc827, sni: jp5.daydaygeek.icu, skip-cert-verify: true, udp: true}
-  - {name: beikui 15, server: 20.239.179.251, port: 50045, type: vmess, uuid: 1617e875-e377-4e4f-85ef-dcf9e5e10df7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
   - {name: beikui 16, server: 207.2.120.172, port: 443, type: trojan, password: 34c2ebbd-8ecf-3c1c-a945-19cd394a3e43, sni: 20020517.luohuaxian.xyz, skip-cert-verify: true, udp: true}
   - {name: beikui 17, server: 45.137.97.205, port: 443, type: trojan, password: 882b31b4-bc3f-3e25-880f-251a3bbf70bb, sni: 20020526.luohuaxian.xyz, skip-cert-verify: true, udp: true}
   - {name: beikui 18, server: 165.154.235.49, port: 443, type: trojan, password: ce4b07b8-47c9-3264-b2db-76e494745f8c, sni: 20020627.luohuaxian.xyz, skip-cert-verify: true, udp: true}
-  - {name: beikui 19, server: 20.89.140.237, port: 80, type: trojan, password: aa06007a-d14d-33d3-91a3-4480ee5f4295, sni: jp5.daydaygeek.icu, skip-cert-verify: true, udp: true}
-  - {name: beikui 20, server: pp1.zhengzhongfeizhu.xyz, port: 34004, type: trojan, password: 177501cc-f0c2-3cc3-b9a7-8c1e8e27655f, skip-cert-verify: true, udp: true}
-  - {name: beikui 21, server: pp1.zhengzhongfeizhu.xyz, port: 33001, type: trojan, password: 177501cc-f0c2-3cc3-b9a7-8c1e8e27655f, skip-cert-verify: true, udp: true}
-  - {name: beikui 22, server: pp1.zhengzhongfeizhu.xyz, port: 33002, type: trojan, password: 177501cc-f0c2-3cc3-b9a7-8c1e8e27655f, skip-cert-verify: true, udp: true}
-  - {name: beikui 23, server: pp1.zhengzhongfeizhu.xyz, port: 34000, type: trojan, password: 177501cc-f0c2-3cc3-b9a7-8c1e8e27655f, skip-cert-verify: true, udp: true}
-  - {name: beikui 24, server: pp1.zhengzhongfeizhu.xyz, port: 34001, type: trojan, password: 177501cc-f0c2-3cc3-b9a7-8c1e8e27655f, skip-cert-verify: true, udp: true}
-  - {name: beikui 25, server: pp1.zhengzhongfeizhu.xyz, port: 34002, type: trojan, password: 177501cc-f0c2-3cc3-b9a7-8c1e8e27655f, skip-cert-verify: true, udp: true}
-  - {name: beikui 26, server: pp1.zhengzhongfeizhu.xyz, port: 34003, type: trojan, password: 177501cc-f0c2-3cc3-b9a7-8c1e8e27655f, skip-cert-verify: true, udp: true}
-  - {name: beikui 27, server: pp1.zhengzhongfeizhu.xyz, port: 32000, type: trojan, password: 177501cc-f0c2-3cc3-b9a7-8c1e8e27655f, skip-cert-verify: true, udp: true}
-  - {name: beikui 28, server: pp1.zhengzhongfeizhu.xyz, port: 32001, type: trojan, password: 177501cc-f0c2-3cc3-b9a7-8c1e8e27655f, skip-cert-verify: true, udp: true}
-  - {name: beikui 29, server: pp1.zhengzhongfeizhu.xyz, port: 32002, type: trojan, password: 177501cc-f0c2-3cc3-b9a7-8c1e8e27655f, sni: ip3884414509.mobgslb.tbcache.com, skip-cert-verify: true, udp: true}
-  - {name: beikui 30, server: pp1.zhengzhongfeizhu.xyz, port: 32003, type: trojan, password: 177501cc-f0c2-3cc3-b9a7-8c1e8e27655f, sni: ip3884414509.mobgslb.tbcache.com, skip-cert-verify: true, udp: true}
-  - {name: beikui 31, server: pp1.zhengzhongfeizhu.xyz, port: 32003, type: trojan, password: 7688df6f-bf65-3368-b55e-d78efea6a582, sni: ip3884414509.mobgslb.tbcache.com, skip-cert-verify: true, udp: true}
-  - {name: beikui 32, server: pp1.zhengzhongfeizhu.xyz, port: 32002, type: trojan, password: 7688df6f-bf65-3368-b55e-d78efea6a582, sni: ip3884414509.mobgslb.tbcache.com, skip-cert-verify: true, udp: true}
-  - {name: beikui 33, server: pp1.zhengzhongfeizhu.xyz, port: 34003, type: trojan, password: 7688df6f-bf65-3368-b55e-d78efea6a582, skip-cert-verify: true, udp: true}
-  - {name: beikui 34, server: pp1.zhengzhongfeizhu.xyz, port: 32000, type: trojan, password: 7688df6f-bf65-3368-b55e-d78efea6a582, skip-cert-verify: true, udp: true}
-  - {name: beikui 35, server: pp1.zhengzhongfeizhu.xyz, port: 32001, type: trojan, password: 7688df6f-bf65-3368-b55e-d78efea6a582, skip-cert-verify: true, udp: true}
-  - {name: beikui 36, server: pp1.zhengzhongfeizhu.xyz, port: 34002, type: trojan, password: 7688df6f-bf65-3368-b55e-d78efea6a582, skip-cert-verify: true, udp: true}
-  - {name: beikui 37, server: pp1.zhengzhongfeizhu.xyz, port: 34001, type: trojan, password: 7688df6f-bf65-3368-b55e-d78efea6a582, skip-cert-verify: true, udp: true}
-  - {name: beikui 38, server: pp1.zhengzhongfeizhu.xyz, port: 33001, type: trojan, password: 7688df6f-bf65-3368-b55e-d78efea6a582, skip-cert-verify: true, udp: true}
-  - {name: beikui 39, server: pp1.zhengzhongfeizhu.xyz, port: 33002, type: trojan, password: 7688df6f-bf65-3368-b55e-d78efea6a582, skip-cert-verify: true, udp: true}
-  - {name: beikui 40, server: pp1.zhengzhongfeizhu.xyz, port: 34000, type: trojan, password: 7688df6f-bf65-3368-b55e-d78efea6a582, skip-cert-verify: true, udp: true}
-  - {name: beikui 41, server: pp1.zhengzhongfeizhu.xyz, port: 32003, type: trojan, password: eb2f8154-ff58-3b99-b393-28c8eecdbe64, sni: ip3884414509.mobgslb.tbcache.com, skip-cert-verify: true, udp: true}
-  - {name: beikui 42, server: pp1.zhengzhongfeizhu.xyz, port: 32002, type: trojan, password: eb2f8154-ff58-3b99-b393-28c8eecdbe64, sni: ip3884414509.mobgslb.tbcache.com, skip-cert-verify: true, udp: true}
-  - {name: beikui 43, server: pp1.zhengzhongfeizhu.xyz, port: 32000, type: trojan, password: eb2f8154-ff58-3b99-b393-28c8eecdbe64, skip-cert-verify: true, udp: true}
-  - {name: beikui 44, server: pp1.zhengzhongfeizhu.xyz, port: 34003, type: trojan, password: eb2f8154-ff58-3b99-b393-28c8eecdbe64, skip-cert-verify: true, udp: true}
-  - {name: beikui 45, server: pp1.zhengzhongfeizhu.xyz, port: 34002, type: trojan, password: eb2f8154-ff58-3b99-b393-28c8eecdbe64, skip-cert-verify: true, udp: true}
-  - {name: beikui 46, server: pp1.zhengzhongfeizhu.xyz, port: 34001, type: trojan, password: eb2f8154-ff58-3b99-b393-28c8eecdbe64, skip-cert-verify: true, udp: true}
-  - {name: beikui 47, server: pp1.zhengzhongfeizhu.xyz, port: 34000, type: trojan, password: eb2f8154-ff58-3b99-b393-28c8eecdbe64, skip-cert-verify: true, udp: true}
-  - {name: beikui 48, server: pp1.zhengzhongfeizhu.xyz, port: 33002, type: trojan, password: eb2f8154-ff58-3b99-b393-28c8eecdbe64, skip-cert-verify: true, udp: true}
-  - {name: beikui 49, server: pp1.zhengzhongfeizhu.xyz, port: 33001, type: trojan, password: eb2f8154-ff58-3b99-b393-28c8eecdbe64, skip-cert-verify: true, udp: true}
-  - {name: beikui 50, server: pp1.zhengzhongfeizhu.xyz, port: 34004, type: trojan, password: 2f606ee8-3cfa-30b2-a191-f88efe912f5c, skip-cert-verify: true, udp: true}
-  - {name: beikui 51, server: pp1.zhengzhongfeizhu.xyz, port: 32002, type: trojan, password: 2f606ee8-3cfa-30b2-a191-f88efe912f5c, sni: ip3884414509.mobgslb.tbcache.com, skip-cert-verify: true, udp: true}
-  - {name: beikui 52, server: pp1.zhengzhongfeizhu.xyz, port: 32003, type: trojan, password: 2f606ee8-3cfa-30b2-a191-f88efe912f5c, sni: ip3884414509.mobgslb.tbcache.com, skip-cert-verify: true, udp: true}
-  - {name: beikui 53, server: pp1.zhengzhongfeizhu.xyz, port: 32001, type: trojan, password: 2f606ee8-3cfa-30b2-a191-f88efe912f5c, skip-cert-verify: true, udp: true}
-  - {name: beikui 54, server: pp1.zhengzhongfeizhu.xyz, port: 32000, type: trojan, password: 2f606ee8-3cfa-30b2-a191-f88efe912f5c, skip-cert-verify: true, udp: true}
-  - {name: beikui 55, server: pp1.zhengzhongfeizhu.xyz, port: 34003, type: trojan, password: 2f606ee8-3cfa-30b2-a191-f88efe912f5c, skip-cert-verify: true, udp: true}
-  - {name: beikui 56, server: pp1.zhengzhongfeizhu.xyz, port: 34001, type: trojan, password: 2f606ee8-3cfa-30b2-a191-f88efe912f5c, skip-cert-verify: true, udp: true}
-  - {name: beikui 57, server: pp1.zhengzhongfeizhu.xyz, port: 34002, type: trojan, password: 2f606ee8-3cfa-30b2-a191-f88efe912f5c, skip-cert-verify: true, udp: true}
-  - {name: beikui 58, server: pp1.zhengzhongfeizhu.xyz, port: 34000, type: trojan, password: 2f606ee8-3cfa-30b2-a191-f88efe912f5c, skip-cert-verify: true, udp: true}
-  - {name: beikui 59, server: pp1.zhengzhongfeizhu.xyz, port: 33002, type: trojan, password: 2f606ee8-3cfa-30b2-a191-f88efe912f5c, skip-cert-verify: true, udp: true}
-  - {name: beikui 60, server: pp1.zhengzhongfeizhu.xyz, port: 33001, type: trojan, password: 2f606ee8-3cfa-30b2-a191-f88efe912f5c, skip-cert-verify: true, udp: true}
-  - {name: beikui 2 2, server: auto-moble.downloadmovie.cn, port: 65001, type: vmess, uuid: 0253b574-8020-3186-a647-0267295ac9bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /rocket, headers: {Host: "%7B%22Host%22:%22auto-moble.downloadmovie.cn%22%7D"}}, udp: true}
   - {name: beikui 3 2, server: auto-moble.downloadmovie.cn, port: 65022, type: vmess, uuid: 0253b574-8020-3186-a647-0267295ac9bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /rocket, headers: {Host: "%7B%22Host%22:%22auto-moble.downloadmovie.cn%22%7D"}}, udp: true}
   - {name: beikui 4 2, server: auto-moble.downloadmovie.cn, port: 65023, type: vmess, uuid: 0253b574-8020-3186-a647-0267295ac9bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /rocket, headers: {Host: "%7B%22Host%22:%22auto-moble.downloadmovie.cn%22%7D"}}, udp: true}
   - {name: beikui 5 2, server: auto-unicom.downloadmovie.cn, port: 65010, type: vmess, uuid: 0253b574-8020-3186-a647-0267295ac9bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /rocket, headers: {Host: "%7B%22Host%22:%22auto-unicom.downloadmovie.cn%22%7D"}}, udp: true}
@@ -130,3 +77,53 @@ proxies:
   - {name: beikui 180, server: best02.downloadmovie.cn, port: 65031, type: vmess, uuid: 0253b574-8020-3186-a647-0267295ac9bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /rocket, headers: {Host: "%7B%22Host%22:%22best02.downloadmovie.cn%22%7D"}}, udp: true}
   - {name: beikui 181, server: best03.downloadmovie.cn, port: 65031, type: vmess, uuid: 0253b574-8020-3186-a647-0267295ac9bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /rocket, headers: {Host: "%7B%22Host%22:%22best03.downloadmovie.cn%22%7D"}}, udp: true}
   - {name: beikui 182, server: best04.downloadmovie.cn, port: 65031, type: vmess, uuid: 0253b574-8020-3186-a647-0267295ac9bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /rocket, headers: {Host: "%7B%22Host%22:%22best04.downloadmovie.cn%22%7D"}}, udp: true}
+  - {"type":"ss","name":"🇺🇸_US_美国_1","server":"38.68.134.85","port":5500,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"🇺🇸_US_美国_2","server":"167.88.61.50","port":5600,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"🇺🇸_US_美国_3","server":"38.75.136.21","port":2375,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+  - {"type":"ss","name":"🇺🇸_US_美国_4","server":"38.75.136.102","port":2376,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+  - {"type":"ss","name":"🇺🇸_US_美国_5","server":"38.75.136.102","port":6697,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"type":"ss","name":"🇺🇸_US_美国_6","server":"38.121.43.71","port":8882,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"trojan","name":"🇮🇳_IN_印度","server":"jgwhdlb1.gaox.ml","port":443,"password":"e05c749b-7c6b-41b8-9c71-9dcf685edf4a","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇺🇸_US_美国_7","server":"51.81.223.17","port":443,"uuid":"c0156451-4efb-45e2-84fc-8d315c4650db","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"trojan","name":"🇭🇰_HK_香港_1","server":"pp1.zhengzhongfeizhu.xyz","port":34003,"password":"7688df6f-bf65-3368-b55e-d78efea6a582","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇺🇸_US_美国_8","server":"38.68.135.18","port":8009,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
+  - {"type":"ss","name":"🇺🇸_US_美国_9","server":"38.75.136.21","port":7002,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
+  - {"type":"ss","name":"🇺🇸_US_美国_10","server":"38.75.136.21","port":5004,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"ss","name":"🇺🇸_US_美国_11","server":"38.114.114.19","port":8888,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"🇺🇸_US_美国_12","server":"38.68.134.85","port":9102,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
+  - {"type":"ss","name":"🇺🇸_US_美国_13","server":"38.75.136.102","port":6379,"cipher":"aes-256-gcm","password":"zDNVedRFPQexG9v"}
+  - {"type":"ss","name":"🇺🇸_US_美国_14","server":"38.75.136.21","port":5003,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"ss","name":"🇺🇸_US_美国_15","server":"38.75.136.102","port":7002,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
+  - {"type":"trojan","name":"🇺🇸_US_美国_16","server":"cd.rutracker-cn.com","port":443,"password":"ukMzuFSmIXDvgW0h","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇸_US_美国_1","server":"pp1.zhengzhongfeizhu.xyz","port":33001,"password":"eb2f8154-ff58-3b99-b393-28c8eecdbe64","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇺🇸_US_美国_17","server":"167.88.61.50","port":7307,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+  - {"type":"vmess","name":"🇬🇧_GB_英国","ws-opts":{"path":"/rocket"},"server":"best01.downloadmovie.cn","port":65031,"uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"🇺🇸_US_美国_18","server":"104.243.25.95","port":253,"cipher":"aes-256-cfb","password":"bwhskrskr03"}
+  - {"type":"ss","name":"🇺🇸_US_美国_19","server":"167.88.61.50","port":5003,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"vmess","name":"🇺🇸_US_美国_20","server":"su4.chaoxn.top","port":80,"uuid":"9e4a7268-4c66-49d9-b6fb-59e33c8c7c59","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"🇺🇸_US_美国_21","server":"38.75.136.21","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"🇺🇸_US_美国_22","server":"38.68.134.85","port":5601,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"🇺🇸_US_美国_23","server":"38.75.136.21","port":8009,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
+  - {"type":"ss","name":"🇺🇸_US_美国_24","server":"38.75.136.21","port":6679,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"type":"trojan","name":"🇭🇰_HK_香港_2","server":"pp1.zhengzhongfeizhu.xyz","port":34002,"password":"7688df6f-bf65-3368-b55e-d78efea6a582","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇭🇰_HK_香港_3","server":"pp1.zhengzhongfeizhu.xyz","port":32000,"password":"2f606ee8-3cfa-30b2-a191-f88efe912f5c","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇺🇸_US_美国_25","server":"38.68.135.18","port":5003,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"type":"trojan","name":"🇺🇸_US_美国_2","server":"106.75.233.91","port":3389,"password":"9a27800ca7b52ee0","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇺🇸_US_美国_26","server":"38.75.136.21","port":9102,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
+  - {"type":"ss","name":"🇺🇸_US_美国_27","server":"38.114.114.19","port":7307,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+  - {"type":"trojan","name":"🇺🇸_US_美国_3","server":"103.56.62.145","port":3381,"password":"ca4596fb9bc63cf2","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇺🇸_US_美国_28","server":"38.75.136.102","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"ss","name":"🇺🇸_US_美国_29","server":"38.68.134.85","port":3306,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ss","name":"🇺🇸_US_美国_30","server":"38.114.114.19","port":5500,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"type":"trojan","name":"🇺🇸_US_美国_31","server":"625us.ok365.cyou","port":443,"password":"6f42acc5-995e-4060-9292-f7cc7641a830","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇺🇸_US_美国_32","server":"38.114.114.19","port":7002,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
+  - {"type":"vmess","name":"🇺🇸_US_美国_33","server":"su11.chaoxn.top","port":80,"uuid":"9e4a7268-4c66-49d9-b6fb-59e33c8c7c59","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"🇺🇸_US_美国_34","server":"38.114.114.19","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"trojan","name":"🇭🇰_HK_香港_4","server":"pp1.zhengzhongfeizhu.xyz","port":32002,"password":"2f606ee8-3cfa-30b2-a191-f88efe912f5c","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇺🇸_US_美国_35","server":"38.75.136.102","port":8881,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"type":"ss","name":"🇺🇸_US_美国_36","server":"38.75.136.21","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+  - {"type":"ss","name":"🇺🇸_US_美国_37","server":"38.75.136.21","port":5601,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"ssr","name":"🇭🇰_HK_香港_5","server":"cmgz18.zifaner.top","port":20918,"protocol":"auth_aes128_sha1","cipher":"chacha20-ietf","obfs":"http_simple","password":"download.microso","obfs-param":"ZmM5YmE0NTc2LmRvd25sb2FkLm1pY3Jvc29mdC5jb20=","protocol-param":"4576:Y0G6hg"}
+  - {"type":"trojan","name":"🇹🇼_TW_台湾_1","server":"gzyd2.52147.top","port":30010,"password":"4cb63fcd-23e1-46e4-b55b-0d4b9bb4d2a3","udp":true,"skip-cert-verify":true}
+  - {"type":"ss","name":"🇺🇸_US_美国_38","server":"38.68.134.85","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
+  - {"type":"trojan","name":"🇹🇼_TW_台湾_2","server":"hnyd.52147.top","port":20020,"password":"a3da3376-881c-4f5a-93cd-e3289e853475","udp":true,"skip-cert-verify":true}
