@@ -82,14 +82,14 @@ proxies:
   - {"type":"vmess","name":"🇺🇸_US_美国_7","ws-opts":{"path":"/rocket"},"server":"120.233.150.146","port":65001,"uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇹🇼_TW_台湾_2","ws-opts":{"path":"/rocket"},"server":"116.129.254.177","port":65034,"uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"trojan","name":"🇺🇸_US_美国_8","server":"134.195.101.32","port":3389,"password":"9a27800ca7b52ee0","udp":true,"skip-cert-verify":true}
-  - {"type":"vmess","name":"🇰🇷_KR_韩国_1","server":"152.67.223.187","port":13774,"uuid":"5da35e16-0af7-47cc-ed73-269824ccb1a2","alterId":0,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇰🇷_KR_韩国_2","server":"152.67.218.38","port":443,"uuid":"b5e9480a-b7aa-40a4-f9a7-5299b5e363b4","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇰🇷_KR_韩国_2","server":"152.67.223.187","port":13774,"uuid":"5da35e16-0af7-47cc-ed73-269824ccb1a2","alterId":0,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇰🇷_KR_韩国_3","server":"152.67.218.38","port":443,"uuid":"b5e9480a-b7aa-40a4-f9a7-5299b5e363b4","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇨🇭_CH_瑞士","ws-opts":{"path":"/rocket"},"server":"120.233.150.146","port":65079,"uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"trojan","name":"🇸🇬_SG_新加坡_2","server":"s4.hazz.win","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","udp":true,"skip-cert-verify":true}
   - {"type":"vmess","name":"🇨🇳_CN_中国_1","ws-opts":{"path":"/rocket"},"server":"116.129.254.177","port":65065,"uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇨🇳_CN_中国_2","ws-opts":{"path":"/rocket"},"server":"116.129.254.177","port":65006,"uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":0,"cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇰🇷_KR_韩国_3","server":"146.56.110.129","port":53702,"uuid":"d0ee8ec0-ef63-41aa-9087-11edf7a978b9","alterId":0,"cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇰🇷_KR_韩国_2","ws-opts":{"path":"/rocket"},"server":"116.129.254.177","port":65048,"uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇰🇷_KR_韩国_4","server":"146.56.110.129","port":53702,"uuid":"d0ee8ec0-ef63-41aa-9087-11edf7a978b9","alterId":0,"cipher":"auto","network":"tcp"}
+  - {"type":"vmess","name":"🇰🇷_KR_韩国_5","ws-opts":{"path":"/rocket"},"server":"116.129.254.177","port":65048,"uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇹🇼_TW_台湾_3","ws-opts":{"path":"/rocket"},"server":"120.233.150.146","port":65024,"uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇺🇸_US_美国_9","server":"138.2.49.230","port":10021,"uuid":"a12e496e-f89a-434a-8011-108846f0e412","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇨🇦_CA_加拿大","ws-opts":{"path":"/rocket"},"server":"116.129.254.177","port":65007,"uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":0,"cipher":"auto","network":"ws"}
