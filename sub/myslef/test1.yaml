@@ -9,3 +9,5 @@ proxies:
   - {"type":"vmess","name":"🇮🇱以色列_2","ws-opts":{"path":"/rocket"},"server":"best01.downloadmovie.cn","port":"65096","uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇨🇳中国_1","ws-opts":{"path":"/rocket"},"server":"best04.downloadmovie.cn","port":"65070","uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇨🇳中国_2","ws-opts":{"path":"/rocket"},"server":"best01.downloadmovie.cn","port":"65070","uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"JPM247","ws-opts":{"path":"/","headers":{"host":"jp1.chaoxn.top"}},"server":"jp1.chaoxn.top","port":80,"uuid":"9e4a7268-4c66-49d9-b6fb-59e33c8c7c59","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"KR-AZ","server":"20.249.98.246","port":51622,"uuid":"67e4ebb9-25f8-4c75-a377-179a335bd0c6","alterId":0,"cipher":"auto","network":"tcp"}
