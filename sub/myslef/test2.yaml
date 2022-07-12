@@ -9,6 +9,7 @@ proxies:
   - {"type":"vmess","name":"🇦🇿_AZ_阿塞拜疆_2","ws-opts":{"path":"/rocket"},"server":"116.129.254.177","port":65092,"uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"trojan","name":"🇹🇼台湾_1","server":"tw.suntory.lol","port":38512,"password":"0896373c-7cd9-4221-b50d-9634990d6751","udp":true,"skip-cert-verify":true}
   - {"type":"ss","name":"🇭🇰香港_1","server":"ftp.cn.debian.cdnet.in","port":8010,"cipher":"aes-128-gcm","password":"18269676-71ae-476d-b6d3-26ca391424b9"}
+  - {"type":"ss","name":"🇯🇵日本","server":"ftp.cn.debian.cdnet.in","port":8030,"cipher":"aes-128-gcm","password":"18269676-71ae-476d-b6d3-26ca391424b9"}
   - {"type":"trojan","name":"🇹🇼台湾_2","server":"tw.suntory.lol","port":38513,"password":"0896373c-7cd9-4221-b50d-9634990d6751","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇺🇸美国_1","server":"hkbgp2.jiantian.xyz","port":63467,"password":"3fbb3fd9-e1a2-4c91-8380-dc2998d1fa8c","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇺🇸美国_3","server":"s3.hazz.win","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","udp":true,"skip-cert-verify":true}
