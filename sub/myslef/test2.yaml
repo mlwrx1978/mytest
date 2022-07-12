@@ -24,3 +24,4 @@ proxies:
   - {"type":"trojan","name":"🇹🇼台湾_4","server":"cm.spacez.cloud","port":30003,"password":"c9a3a61d-5d49-4158-9e60-6fa32684b122","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇭🇰香港_4","server":"pp1.zhengzhongfeizhu.xyz","port":34000,"password":"eb2f8154-ff58-3b99-b393-28c8eecdbe64","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇹🇼台湾_5","server":"cm.spacez.cloud","port":30002,"password":"c9a3a61d-5d49-4158-9e60-6fa32684b122","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳中国","server":"hnyd.52147.top","port":30130,"password":"2778263c-486d-4af8-9ba4-25fc536b5bac","udp":true,"skip-cert-verify":true}
