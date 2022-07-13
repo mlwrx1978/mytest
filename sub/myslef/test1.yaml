@@ -1,11 +1,5 @@
 proxies:
-  - {name: 🇨🇳 台湾📔, server: hnyd.52147.top, port: 30010, type: trojan, password: f5f239fc-d21a-45ba-aeaf-b137d7d730a6, sni: download.windowsupdate1.com}
-  - {name: 🇨🇳 台湾📔 3, server: gzyd2.52147.top, port: 30010, type: trojan, password: f5f239fc-d21a-45ba-aeaf-b137d7d730a6, sni: download.windowsupdate1.com}
-  - {name: 🇨🇳 台湾📔 4, server: hnyd.52147.top, port: 20020, type: trojan, password: 62de567b-6b72-4b8f-bc2b-c2d0d492adca, sni: download.windowsupdate1.com}
   - {name: 🇨🇳 台湾📔 5, server: gzyd1.52147.top, port: 20140, type: trojan, password: 62de567b-6b72-4b8f-bc2b-c2d0d492adca, sni: download.windowsupdate1.com}
-  - {name: 🇨🇳 台湾📔 6, server: gzyd2.52147.top, port: 20020, type: trojan, password: 62de567b-6b72-4b8f-bc2b-c2d0d492adca, sni: download.windowsupdate1.com}
-  - {name: 🇨🇳 台湾📔 7, server: gzyd1.52147.top, port: 20020, type: trojan, password: 62de567b-6b72-4b8f-bc2b-c2d0d492adca, sni: download.windowsupdate1.com}
-  - {name: 🇨🇳 台湾📔 8, server: gzyd2.52147.top, port: 20140, type: trojan, password: 62de567b-6b72-4b8f-bc2b-c2d0d492adca, sni: download.windowsupdate1.com}
   - {name: 🇺🇲 美国📔 2, server: www.digitalocean.com, port: 443, type: vmess, uuid: 3df66137-a428-429c-a858-8b150721b354, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /youtbue@bai-piao-wang-zhe_vws, headers: {Host: usa23.884899.cf}}}
   - {name: 🇺🇲 美国📔 4, server: 138.68.248.130, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: Ultr@r00t_2017}
   - {name: 🇨🇳 台湾📔 9, server: gzyd1.52147.top, port: 30010, type: trojan, password: f5f239fc-d21a-45ba-aeaf-b137d7d730a6, sni: download.windowsupdate1.com}
