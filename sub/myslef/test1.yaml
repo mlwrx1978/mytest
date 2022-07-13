@@ -1,5 +1,4 @@
 proxies:
-  - {name: 🇭🇰 香港📔 3, server: hnyd.52147.top, port: 20170, type: trojan, password: 62de567b-6b72-4b8f-bc2b-c2d0d492adca, sni: download.windowsupdate1.com}
   - {name: 🇨🇳 台湾📔, server: hnyd.52147.top, port: 30010, type: trojan, password: f5f239fc-d21a-45ba-aeaf-b137d7d730a6, sni: download.windowsupdate1.com}
   - {name: 🇨🇳 台湾📔 3, server: gzyd2.52147.top, port: 30010, type: trojan, password: f5f239fc-d21a-45ba-aeaf-b137d7d730a6, sni: download.windowsupdate1.com}
   - {name: 🇨🇳 台湾📔 4, server: hnyd.52147.top, port: 20020, type: trojan, password: 62de567b-6b72-4b8f-bc2b-c2d0d492adca, sni: download.windowsupdate1.com}
@@ -13,21 +12,3 @@ proxies:
   - {name: 美国 25, server: 161.35.69.20, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: Ultr@r00t_2017, udp: true}
   - {name: 欧洲 42, server: 51.81.223.32, port: 443, type: vmess, uuid: c0156451-4efb-45e2-84fc-8d315c4650db, alterId: 32, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {"type":"trojan","name":"TW_1","server":"cm.spacez.cloud","port":30003,"password":"c9a3a61d-5d49-4158-9e60-6fa32684b122","udp":true,"skip-cert-verify":true,"sni":"cm.spacez.cloud"}
-  - {"type":"trojan","name":"TW_2","server":"tw.suntory.lol","port":38513,"password":"0896373c-7cd9-4221-b50d-9634990d6751","udp":true,"skip-cert-verify":true,"sni":"tw.suntory.lol"}
-  - {"type":"trojan","name":"TW_3","server":"103.56.62.145","port":3381,"password":"ca4596fb9bc63cf2","udp":true,"skip-cert-verify":true,"sni":"103.56.62.145"}
-  - {"type":"trojan","name":"TW_4","server":"103.56.62.145","port":3381,"password":"9a27800ca7b52ee0","udp":true,"skip-cert-verify":true,"sni":"103.56.62.145"}
-  - {"type":"trojan","name":"TW_5","server":"103.56.60.235","port":3381,"password":"9a27800ca7b52ee0","udp":true,"skip-cert-verify":true,"sni":"103.56.60.235"}
-  - {"type":"trojan","name":"TW_6","server":"103.56.60.235","port":3381,"password":"ffec9f6ea19e1dd1","udp":true,"skip-cert-verify":true,"sni":"103.56.60.235"}
-  - {"type":"trojan","name":"TW_7","server":"103.56.62.145","port":3381,"password":"d66013c645b93c5c","udp":true,"skip-cert-verify":true,"sni":"103.56.62.145"}
-  - {"type":"trojan","name":"TW_8","server":"134.195.101.32","port":3389,"password":"d66013c645b93c5c","udp":true,"skip-cert-verify":true,"sni":"134.195.101.32"}
-  - {"type":"trojan","name":"TW_9","server":"103.56.62.145","port":3381,"password":"711aabc21e45ae31","udp":true,"skip-cert-verify":true,"sni":"103.56.62.145"}
-  - {"type":"trojan","name":"TW_10","server":"103.56.62.145","port":3381,"password":"ffec9f6ea19e1dd1","udp":true,"skip-cert-verify":true,"sni":"103.56.62.145"}
-  - {"type":"trojan","name":"TW_11","server":"134.195.101.32","port":3389,"password":"9a27800ca7b52ee0","udp":true,"skip-cert-verify":true,"sni":"134.195.101.32"}
-  - {"type":"trojan","name":"TW_12","server":"134.195.101.32","port":3389,"password":"ffec9f6ea19e1dd1","udp":true,"skip-cert-verify":true,"sni":"134.195.101.32"}
-  - {"type":"trojan","name":"TW_13","server":"103.56.60.235","port":3381,"password":"ca4596fb9bc63cf2","udp":true,"skip-cert-verify":true,"sni":"103.56.60.235"}
-  - {"type":"trojan","name":"TW_14","server":"134.195.101.32","port":3389,"password":"ca4596fb9bc63cf2","udp":true,"skip-cert-verify":true,"sni":"134.195.101.32"}
-  - {"type":"trojan","name":"TW_15","server":"134.195.101.32","port":3389,"password":"711aabc21e45ae31","udp":true,"skip-cert-verify":true,"sni":"134.195.101.32"}
-  - {"type":"trojan","name":"TW_16","server":"116.129.253.134","port":3381,"password":"9a27800ca7b52ee0","udp":true,"skip-cert-verify":true,"sni":"116.129.253.134"}
-  - {"type":"trojan","name":"TW_17","server":"103.56.60.235","port":3381,"password":"711aabc21e45ae31","udp":true,"skip-cert-verify":true,"sni":"103.56.60.235"}
-  - {"type":"trojan","name":"TW_18","server":"116.129.253.134","port":3381,"password":"ca4596fb9bc63cf2","udp":true,"skip-cert-verify":true,"sni":"116.129.253.134"}
-  - {"type":"trojan","name":"TW_19","server":"103.56.60.235","port":3381,"password":"d66013c645b93c5c","udp":true,"skip-cert-verify":true,"sni":"103.56.60.235"}
