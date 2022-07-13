@@ -1,5 +1,4 @@
 proxies:
-  - {"type":"vmess","name":"JPM247","ws-opts":{"path":"/","headers":{"host":"jp1.chaoxn.top"}},"server":"jp1.chaoxn.top","port":80,"uuid":"9e4a7268-4c66-49d9-b6fb-59e33c8c7c59","alterId":0,"cipher":"auto","network":"ws"}
   - {name: 🇭🇰 香港📔 3, server: hnyd.52147.top, port: 20170, type: trojan, password: 62de567b-6b72-4b8f-bc2b-c2d0d492adca, sni: download.windowsupdate1.com}
   - {name: 🇨🇳 台湾📔, server: hnyd.52147.top, port: 30010, type: trojan, password: f5f239fc-d21a-45ba-aeaf-b137d7d730a6, sni: download.windowsupdate1.com}
   - {name: 🇨🇳 台湾📔 3, server: gzyd2.52147.top, port: 30010, type: trojan, password: f5f239fc-d21a-45ba-aeaf-b137d7d730a6, sni: download.windowsupdate1.com}
@@ -8,10 +7,27 @@ proxies:
   - {name: 🇨🇳 台湾📔 6, server: gzyd2.52147.top, port: 20020, type: trojan, password: 62de567b-6b72-4b8f-bc2b-c2d0d492adca, sni: download.windowsupdate1.com}
   - {name: 🇨🇳 台湾📔 7, server: gzyd1.52147.top, port: 20020, type: trojan, password: 62de567b-6b72-4b8f-bc2b-c2d0d492adca, sni: download.windowsupdate1.com}
   - {name: 🇨🇳 台湾📔 8, server: gzyd2.52147.top, port: 20140, type: trojan, password: 62de567b-6b72-4b8f-bc2b-c2d0d492adca, sni: download.windowsupdate1.com}
-  - {name: 欧洲📔 5, server: gzyd1.52147.top, port: 20060, type: trojan, password: 62de567b-6b72-4b8f-bc2b-c2d0d492adca, sni: download.windowsupdate1.com}
   - {name: 🇺🇲 美国📔 2, server: www.digitalocean.com, port: 443, type: vmess, uuid: 3df66137-a428-429c-a858-8b150721b354, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /youtbue@bai-piao-wang-zhe_vws, headers: {Host: usa23.884899.cf}}}
   - {name: 🇺🇲 美国📔 4, server: 138.68.248.130, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: Ultr@r00t_2017}
   - {name: 🇨🇳 台湾📔 9, server: gzyd1.52147.top, port: 30010, type: trojan, password: f5f239fc-d21a-45ba-aeaf-b137d7d730a6, sni: download.windowsupdate1.com}
-  - {name: 美国 16, server: su10.chaoxn.top, port: 80, type: vmess, uuid: 9e4a7268-4c66-49d9-b6fb-59e33c8c7c59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: su10.chaoxn.top}, udp: true}
   - {name: 美国 25, server: 161.35.69.20, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: Ultr@r00t_2017, udp: true}
   - {name: 欧洲 42, server: 51.81.223.32, port: 443, type: vmess, uuid: c0156451-4efb-45e2-84fc-8d315c4650db, alterId: 32, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {"type":"trojan","name":"TW_1","server":"cm.spacez.cloud","port":30003,"password":"c9a3a61d-5d49-4158-9e60-6fa32684b122","udp":true,"skip-cert-verify":true,"sni":"cm.spacez.cloud"}
+  - {"type":"trojan","name":"TW_2","server":"tw.suntory.lol","port":38513,"password":"0896373c-7cd9-4221-b50d-9634990d6751","udp":true,"skip-cert-verify":true,"sni":"tw.suntory.lol"}
+  - {"type":"trojan","name":"TW_3","server":"103.56.62.145","port":3381,"password":"ca4596fb9bc63cf2","udp":true,"skip-cert-verify":true,"sni":"103.56.62.145"}
+  - {"type":"trojan","name":"TW_4","server":"103.56.62.145","port":3381,"password":"9a27800ca7b52ee0","udp":true,"skip-cert-verify":true,"sni":"103.56.62.145"}
+  - {"type":"trojan","name":"TW_5","server":"103.56.60.235","port":3381,"password":"9a27800ca7b52ee0","udp":true,"skip-cert-verify":true,"sni":"103.56.60.235"}
+  - {"type":"trojan","name":"TW_6","server":"103.56.60.235","port":3381,"password":"ffec9f6ea19e1dd1","udp":true,"skip-cert-verify":true,"sni":"103.56.60.235"}
+  - {"type":"trojan","name":"TW_7","server":"103.56.62.145","port":3381,"password":"d66013c645b93c5c","udp":true,"skip-cert-verify":true,"sni":"103.56.62.145"}
+  - {"type":"trojan","name":"TW_8","server":"134.195.101.32","port":3389,"password":"d66013c645b93c5c","udp":true,"skip-cert-verify":true,"sni":"134.195.101.32"}
+  - {"type":"trojan","name":"TW_9","server":"103.56.62.145","port":3381,"password":"711aabc21e45ae31","udp":true,"skip-cert-verify":true,"sni":"103.56.62.145"}
+  - {"type":"trojan","name":"TW_10","server":"103.56.62.145","port":3381,"password":"ffec9f6ea19e1dd1","udp":true,"skip-cert-verify":true,"sni":"103.56.62.145"}
+  - {"type":"trojan","name":"TW_11","server":"134.195.101.32","port":3389,"password":"9a27800ca7b52ee0","udp":true,"skip-cert-verify":true,"sni":"134.195.101.32"}
+  - {"type":"trojan","name":"TW_12","server":"134.195.101.32","port":3389,"password":"ffec9f6ea19e1dd1","udp":true,"skip-cert-verify":true,"sni":"134.195.101.32"}
+  - {"type":"trojan","name":"TW_13","server":"103.56.60.235","port":3381,"password":"ca4596fb9bc63cf2","udp":true,"skip-cert-verify":true,"sni":"103.56.60.235"}
+  - {"type":"trojan","name":"TW_14","server":"134.195.101.32","port":3389,"password":"ca4596fb9bc63cf2","udp":true,"skip-cert-verify":true,"sni":"134.195.101.32"}
+  - {"type":"trojan","name":"TW_15","server":"134.195.101.32","port":3389,"password":"711aabc21e45ae31","udp":true,"skip-cert-verify":true,"sni":"134.195.101.32"}
+  - {"type":"trojan","name":"TW_16","server":"116.129.253.134","port":3381,"password":"9a27800ca7b52ee0","udp":true,"skip-cert-verify":true,"sni":"116.129.253.134"}
+  - {"type":"trojan","name":"TW_17","server":"103.56.60.235","port":3381,"password":"711aabc21e45ae31","udp":true,"skip-cert-verify":true,"sni":"103.56.60.235"}
+  - {"type":"trojan","name":"TW_18","server":"116.129.253.134","port":3381,"password":"ca4596fb9bc63cf2","udp":true,"skip-cert-verify":true,"sni":"116.129.253.134"}
+  - {"type":"trojan","name":"TW_19","server":"103.56.60.235","port":3381,"password":"d66013c645b93c5c","udp":true,"skip-cert-verify":true,"sni":"103.56.60.235"}
