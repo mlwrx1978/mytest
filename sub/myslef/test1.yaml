@@ -1,10 +1,7 @@
 proxies:
   - {name: 🇭🇰 香港限速, server: cn05.downloadmovie.cn, port: 65083, type: vmess, uuid: 0253b574-8020-3186-a647-0267295ac9bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /rocket, headers: {Host: cn05.downloadmovie.cn}}}
-  - {name: 🇭🇰 香港高速, server: gzyd1.52147.top, port: 20170, type: trojan, password: fade393a-2ffe-4d02-9492-e22a027dc611, sni: download.windowsupdate1.com, skip-cert-verify: false}
-  - {name: 🇭🇰 香港中转, server: hnyd.52147.top, port: 20170, type: trojan, password: fade393a-2ffe-4d02-9492-e22a027dc611, sni: download.windowsupdate1.com, skip-cert-verify: false}
   - {name: 🇨🇳 台湾高速, server: 103.186.187.52, port: 28443, type: trojan, password: fade393a-2ffe-4d02-9492-e22a027dc611, sni: download.windowsupdate1.com, skip-cert-verify: false}
   - {name: 🇺🇸 美国, server: 45.12.131.251, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /path/350432191028, headers: {Host: www.54573461.xyz}}}
-  - {name: 🇭🇰 香港低速, server: cn02.downloadmovie.cn, port: 65040, type: vmess, uuid: 0253b574-8020-3186-a647-0267295ac9bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /rocket, headers: {Host: cn02.downloadmovie.cn}}}
   - {name: 🇺🇸 美国3, server: spotted.bigkangaroo.net, port: 443, type: trojan, password: ZCESAylB2u5jga736e8CTN3DcFCAOYz0DlDyx9F3ZpXnSp3IYRa4RwOSqe8Kax, sni: spotted.bigkangaroo.net, skip-cert-verify: false}
   - {"name":"Free新加坡1","type":"vmess","server":"54.251.93.35","port":10000,"uuid":"d92c78a4-8817-30cd-af87-1d385202c3d2","alterId":0,"cipher":"auto","udp":true}
   - {"name":"Free新加坡2","type":"vmess","server":"54.251.93.35","port":9999,"uuid":"d92c78a4-8817-30cd-af87-1d385202c3d2","alterId":0,"cipher":"auto","udp":true}
