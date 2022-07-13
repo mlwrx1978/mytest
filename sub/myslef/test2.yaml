@@ -23,3 +23,10 @@ proxies:
   - {"type":"ss","name":"🇷🇺俄罗斯联邦","server":"ftp.cn.debian.cdnet.in","port":8070,"cipher":"aes-128-gcm","password":"18269676-71ae-476d-b6d3-26ca391424b9"}
   - {"type":"trojan","name":"🇸🇬新加坡_2","server":"sg-04.licom.ml","port":8443,"password":"ce433528-39fa-4711-bc0d-25a5b1579574","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇺🇸美国_9","server":"s2.hazz.win","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","udp":true,"skip-cert-verify":true}
+  - {name: 🇨🇳 台湾📔 5, server: gzyd1.52147.top, port: 20140, type: trojan, password: 62de567b-6b72-4b8f-bc2b-c2d0d492adca, sni: download.windowsupdate1.com}
+  - {name: 🇺🇲 美国📔 2, server: www.digitalocean.com, port: 443, type: vmess, uuid: 3df66137-a428-429c-a858-8b150721b354, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /youtbue@bai-piao-wang-zhe_vws, headers: {Host: usa23.884899.cf}}}
+  - {name: 🇺🇲 美国📔 4, server: 138.68.248.130, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: Ultr@r00t_2017}
+  - {name: 🇨🇳 台湾📔 9, server: gzyd1.52147.top, port: 30010, type: trojan, password: f5f239fc-d21a-45ba-aeaf-b137d7d730a6, sni: download.windowsupdate1.com}
+  - {name: 美国 25, server: 161.35.69.20, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: Ultr@r00t_2017, udp: true}
+  - {name: 欧洲 42, server: 51.81.223.32, port: 443, type: vmess, uuid: c0156451-4efb-45e2-84fc-8d315c4650db, alterId: 32, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {"type":"trojan","name":"TW_1","server":"cm.spacez.cloud","port":30003,"password":"c9a3a61d-5d49-4158-9e60-6fa32684b122","udp":true,"skip-cert-verify":true,"sni":"cm.spacez.cloud"}
