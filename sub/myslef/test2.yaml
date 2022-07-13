@@ -5,17 +5,15 @@ proxies:
   - {"type":"vmess","name":"🇰🇷韩国_1","ws-opts":{"path":"/rocket"},"server":"116.129.254.177","port":65048,"uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇨🇦加拿大","ws-opts":{"path":"/rocket"},"server":"116.129.254.177","port":65007,"uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"trojan","name":"🇹🇼台湾_1","server":"cm.spacez.cloud","port":30003,"password":"c9a3a61d-5d49-4158-9e60-6fa32684b122","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇹🇭_TH_泰国","server":"119.59.116.248","port":17159,"password":"PHnvNV7HGp","udp":true,"skip-cert-verify":true}
-  - {"type":"vmess","name":"🇦🇿_AZ_阿塞拜疆_2","ws-opts":{"path":"/rocket"},"server":"116.129.254.177","port":65092,"uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"trojan","name":"🇹🇭泰国","server":"119.59.116.248","port":17159,"password":"PHnvNV7HGp","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇦🇿阿塞拜疆","ws-opts":{"path":"/rocket"},"server":"116.129.254.177","port":65092,"uuid":"0253b574-8020-3186-a647-0267295ac9bb","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"trojan","name":"🇹🇼台湾_2","server":"tw.suntory.lol","port":38512,"password":"0896373c-7cd9-4221-b50d-9634990d6751","udp":true,"skip-cert-verify":true}
   - {"type":"ss","name":"🇭🇰香港_1","server":"ftp.cn.debian.cdnet.in","port":8010,"cipher":"aes-128-gcm","password":"18269676-71ae-476d-b6d3-26ca391424b9"}
   - {"type":"ss","name":"🇯🇵日本","server":"ftp.cn.debian.cdnet.in","port":8030,"cipher":"aes-128-gcm","password":"18269676-71ae-476d-b6d3-26ca391424b9"}
   - {"type":"trojan","name":"🇹🇼台湾_3","server":"tw.suntory.lol","port":38513,"password":"0896373c-7cd9-4221-b50d-9634990d6751","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇺🇸美国_2","server":"hkbgp2.jiantian.xyz","port":63467,"password":"3fbb3fd9-e1a2-4c91-8380-dc2998d1fa8c","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇺🇸美国_3","server":"s3.hazz.win","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇺🇸美国_4","server":"625us.ok365.cyou","port":443,"password":"1d2a8749-001e-4809-b767-cb04a54bdf7f","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇺🇸美国_5","server":"pp1.zhengzhongfeizhu.xyz","port":33002,"password":"eb2f8154-ff58-3b99-b393-28c8eecdbe64","udp":true,"skip-cert-verify":true}
-  - {"type":"vmess","name":"🇹🇼台湾_4","server":"lc-hk01-direct01.lc-hk01.lc-node.com","port":443,"uuid":"ec736482-173e-3eff-9114-b49df8056e7d","alterId":2,"cipher":"auto","network":"ws","tls":true}
   - {"type":"trojan","name":"🇭🇰香港_2","server":"pp1.zhengzhongfeizhu.xyz","port":32000,"password":"2f606ee8-3cfa-30b2-a191-f88efe912f5c","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇭🇰香港_3","server":"pp1.zhengzhongfeizhu.xyz","port":34001,"password":"eb2f8154-ff58-3b99-b393-28c8eecdbe64","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇺🇸美国_6","server":"gb.v2yyds.com","port":32912,"password":"0896373c-7cd9-4221-b50d-9634990d6751","udp":true,"skip-cert-verify":true}
