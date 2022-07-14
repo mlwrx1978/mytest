@@ -15,13 +15,12 @@ proxies:
   - {"type":"trojan","name":"🇭🇰香港_3","server":"pp1.zhengzhongfeizhu.xyz","port":34001,"password":"eb2f8154-ff58-3b99-b393-28c8eecdbe64","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇺🇸美国_23","server":"gb.v2yyds.com","port":32912,"password":"0896373c-7cd9-4221-b50d-9634990d6751","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇫🇷法国_2","server":"us-05.licom.ml","port":12501,"password":"ce433528-39fa-4711-bc0d-25a5b1579574","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇺🇸美国_24","server":"gb.v2yyds.com","port":32911,"password":"0896373c-7cd9-4221-b50d-9634990d6751","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇭🇰香港_4","server":"pp1.zhengzhongfeizhu.xyz","port":34000,"password":"eb2f8154-ff58-3b99-b393-28c8eecdbe64","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇹🇼台湾_10","server":"cm.spacez.cloud","port":30002,"password":"c9a3a61d-5d49-4158-9e60-6fa32684b122","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇸🇬新加坡_4","server":"node.sin.entrance.cyou","port":28000,"password":"2778263c-486d-4af8-9ba4-25fc536b5bac","udp":true,"skip-cert-verify":true}
   - {"type":"ss","name":"🇷🇺俄罗斯","server":"ftp.cn.debian.cdnet.in","port":8070,"cipher":"aes-128-gcm","password":"18269676-71ae-476d-b6d3-26ca391424b9"}
   - {"type":"trojan","name":"🇸🇬新加坡_5","server":"sg-04.licom.ml","port":8443,"password":"ce433528-39fa-4711-bc0d-25a5b1579574","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇺🇸美国_25","server":"s2.hazz.win","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇺🇸美国_24","server":"s2.hazz.win","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","udp":true,"skip-cert-verify":true}
   - {name: 🇨🇳 台湾📔 5, server: gzyd1.52147.top, port: 20140, type: trojan, password: 62de567b-6b72-4b8f-bc2b-c2d0d492adca, sni: download.windowsupdate1.com}
   - {name: 🇺🇲 美国📔 4, server: 138.68.248.130, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: Ultr@r00t_2017}
   - {name: 美国 25, server: 161.35.69.20, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: Ultr@r00t_2017, udp: true}
