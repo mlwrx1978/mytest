@@ -55,3 +55,4 @@ proxies:
   - {"type":"vmess","name":"🇺🇸美国_17","http-opts":{"path":["/"],"headers":{"Host":["154.12.35.230"]}},"server":"154.12.35.230","port":31522,"uuid":"ad6cb146-a1d1-4964-9e0b-b2c1af75cad8","alterId":0,"cipher":"auto","network":"http"}
   - {"type":"trojan","name":"🇺🇸美国_18","server":"gb.v2yyds.com","port":32911,"password":"0896373c-7cd9-4221-b50d-9634990d6751","udp":true,"skip-cert-verify":true}
   - {"type":"vmess","name":"🇺🇸美国_19","server":"51.81.223.32","port":443,"uuid":"c0156451-4efb-45e2-84fc-8d315c4650db","alterId":32,"cipher":"auto","network":"tcp"}
+  - {"type":"trojan","name":"🇹🇭泰国","server":"119.59.116.248","port":17159,"password":"PHnvNV7HGp","udp":true,"skip-cert-verify":true}
