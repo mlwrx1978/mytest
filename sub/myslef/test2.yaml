@@ -1,13 +1,3 @@
 proxies:
-  - name: IEPL-AP-HK-3[ran-out](v2ray)
-    uuid: a611f6db-6bcd-11eb-baa0-0ae09aa79902
-    type: vmess
-    server: h63956.waihuizhibiaowang.com
-    port: 12545
-    alterId: 0
-    cipher: auto
-    tls: true
-    network: grpc
-    servername: h63956.waihuizhibiaowang.com
-    grpc-opts:
-      grpc-service-name: lzu4t6t5j7qp72ebep0c
+  - {"type":"trojan","name":"香港微软云","server":"krhqecxyye.eastasia.cloudapp.azure.com","port":443,"password":"trojan-daozhu-uallen-qbit-azure-hk","udp":true,"skip-cert-verify":true,"sni":"trojan-daozhu-uallen-qbit-azure-hk.kinhproxy.com"}
+
