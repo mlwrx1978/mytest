@@ -1,2 +1,2 @@
 proxies:
-  - {"type":"trojan","name":"🇭🇰 HK1","server":"trojan-daozhu-uallen-qbit-azure-hk.kinhproxy.com","port":443,"password":"trojan-daozhu-uallen-qbit-azure-hk","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇹🇭泰国","server":"119.59.116.248","port":17159,"password":"PHnvNV7HGp","udp":true,"skip-cert-verify":true}
