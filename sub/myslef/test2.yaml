@@ -1,2 +1,2 @@
 proxies:
-  - {"type":"trojan","name":"香港微软云","server":"krhqecxyye.eastasia.cloudapp.azure.com","port":443,"password":"trojan-daozhu-uallen-qbit-azure-hk","udp":true,"skip-cert-verify":true,"sni":"trojan-daozhu-uallen-qbit-azure-hk.kinhproxy.com"}
+  - {"type":"trojan","name":"🇭🇰 HK1","server":"trojan-daozhu-uallen-qbit-azure-hk.kinhproxy.com","port":443,"password":"trojan-daozhu-uallen-qbit-azure-hk","udp":true,"skip-cert-verify":true}
