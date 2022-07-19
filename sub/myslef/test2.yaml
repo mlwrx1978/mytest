@@ -1,8 +1,3 @@
 proxies:
   - {"type":"trojan","name":"🇹🇭泰国","server":"119.59.116.248","port":17159,"password":"PHnvNV7HGp","udp":true,"skip-cert-verify":true}
-  - {name: 🇭🇰 HK_1, server: 14.119.87.180, port: 45250, type: vmess, uuid: 73871590-6d88-434c-a6f7-9c1fbd57057d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇹🇼 TW_1, server: 14.119.87.180, port: 45394, type: vmess, uuid: 8141f776-8fcf-4b5c-b5b7-b104baefcb7f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇭🇰 HK_2, server: 104.208.66.126, port: 10000, type: vmess, uuid: de4ceb36-b708-4658-81b2-2f2612e39a23, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "?ed=2048"}, udp: true}
   - {name: 🇯🇵 JP_1, server: gdgz.henet.cyou, port: 30003, type: vmess, uuid: e5a2bd1a-53da-473e-a81b-573b4758b66b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
-  - {name: 🇺🇸 US_1, server: gz1.tinkhub.me, port: 443, type: vmess, uuid: c89cf59e-26d2-443a-aa80-847bab3aa856, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: gz1.tinkhub.me}}, udp: true}
-  - {name: 🇭🇰 HK_3, server: hlu.bgp2.liuliangzhuanfa.xyz, port: 45379, type: trojan, password: 272d7cf8-b204-48f0-8d01-f190bf73ebec, sni: xg1.xianggang1.xyz, udp: true}
