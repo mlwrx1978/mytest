@@ -1,3 +1,2 @@
 proxies:
   - {"type":"trojan","name":"🇹🇭泰国","server":"119.59.116.248","port":17159,"password":"PHnvNV7HGp","udp":true,"skip-cert-verify":true}
-  - {name: 🇯🇵 JP_1, server: gdgz.henet.cyou, port: 30003, type: vmess, uuid: e5a2bd1a-53da-473e-a81b-573b4758b66b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /live, headers: {Host: cctv.com}}, udp: true}
