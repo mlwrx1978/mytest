@@ -1,3 +1,11 @@
 proxies:
   - {"type":"trojan","name":"🇹🇭泰国","server":"119.59.116.248","port":17159,"password":"PHnvNV7HGp","udp":true,"skip-cert-verify":true}
   - {"type":"vmess","name":"🇨🇳TW","server":"tanz-moble.01download.xyz","port":35001,"uuid":"70b16905-4706-3b4a-8f27-bdd2a74bf432","alterId":0,"cipher":"auto","network":"tcp"}
+  - {"type":"ssr","name":"🇷🇺俄罗斯_1","server":"213.183.53.200","port":9006,"protocol":"origin","cipher":"aes-256-cfb","obfs":"plain","password":"FAdUvMJUq5vDgKEq"}
+  - {"type":"ssr","name":"🇷🇺俄罗斯_2","server":"213.183.53.200","port":9014,"protocol":"origin","cipher":"aes-256-cfb","obfs":"plain","password":"KnJGad3FqTvjqbaX"}
+  - {"type":"ssr","name":"🇷🇺俄罗斯_3","server":"213.183.53.177","port":9084,"protocol":"origin","cipher":"aes-256-cfb","obfs":"plain","password":"c3NtHJ5ujV2tGDfj"}
+  - {"type":"ssr","name":"🇷🇺俄罗斯_4","server":"213.183.53.200","port":9040,"protocol":"origin","cipher":"aes-256-cfb","obfs":"plain","password":"p9z5BVADH2YFs3MN"}
+  - {"type":"ssr","name":"🇳🇱荷兰_1","server":"213.183.59.190","port":9043,"protocol":"origin","cipher":"aes-256-cfb","obfs":"plain","password":"HSZuyJQcWe8dxNdF"}
+  - {"type":"ssr","name":"🇳🇱荷兰_2","server":"213.183.59.206","port":9026,"protocol":"origin","cipher":"aes-256-cfb","obfs":"plain","password":"QWDDvVE9npNurQfA"}
+  - {"type":"ssr","name":"🇳🇱荷兰_3","server":"213.183.59.190","port":9024,"protocol":"origin","cipher":"aes-256-cfb","obfs":"plain","password":"BejrQvtu9sqUeNuZ"}
+  - {"type":"ssr","name":"🇳🇱荷兰_4","server":"213.183.59.190","port":9088,"protocol":"origin","cipher":"aes-256-cfb","obfs":"plain","password":"f8npKgNzdkss2ytn"}
