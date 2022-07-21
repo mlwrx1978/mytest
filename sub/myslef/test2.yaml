@@ -1,5 +1,6 @@
 proxies:
   - {"type":"trojan","name":"🇹🇭泰国","server":"119.59.116.248","port":17159,"password":"PHnvNV7HGp","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇭🇰香港微软云","server":"trojan-daozhu-uallen-qbit-azure-hk.kinhproxy.com","port":443,"password":"trojan-daozhu-uallen-qbit-azure-hk","sni":"trojan-daozhu-uallen-qbit-azure-hk.kinhproxy.com","udp":true}
   - {"type":"vmess","name":"🇨🇳TW","server":"tanz-moble.01download.xyz","port":35001,"uuid":"70b16905-4706-3b4a-8f27-bdd2a74bf432","alterId":0,"cipher":"auto","network":"tcp"}
   - {"type":"ssr","name":"🇷🇺俄罗斯_1","server":"213.183.53.200","port":9006,"protocol":"origin","cipher":"aes-256-cfb","obfs":"plain","password":"FAdUvMJUq5vDgKEq"}
   - {"type":"ssr","name":"🇷🇺俄罗斯_2","server":"213.183.53.200","port":9014,"protocol":"origin","cipher":"aes-256-cfb","obfs":"plain","password":"KnJGad3FqTvjqbaX"}
