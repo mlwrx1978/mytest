@@ -1,6 +1,5 @@
 proxies:
   - {"type":"trojan","name":"🇹🇭泰国","server":"119.59.116.248","port":17159,"password":"PHnvNV7HGp","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇭🇰香港微软云","server":"trojan-daozhu-uallen-qbit-azure-hk.kinhproxy.com","port":443,"password":"trojan-daozhu-uallen-qbit-azure-hk","sni":"trojan-daozhu-uallen-qbit-azure-hk.kinhproxy.com","udp":true}
   - {"type":"vmess","name":"🇺🇸油管_1","server":"hk20.bp777.buzz","port":"21665","uuid":"b4e134e8-2a58-4c6e-a7ac-f2b36434a5c5","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇺🇸油管_2","server":"hk08.bp777.buzz","port":"21665","uuid":"7cbd1c2e-f61e-490c-bfa8-a435ed1645b3","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇺🇸油管_3","server":"hk10.bp777.buzz","port":"21665","uuid":"b4e134e8-2a58-4c6e-a7ac-f2b36434a5c5","alterId":"0","cipher":"auto","network":"ws"}
@@ -39,8 +38,7 @@ proxies:
   - {"type":"ss","name":"🇺🇸油管_36","server":"172.99.188.71","port":8008,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
   - {"type":"ss","name":"🇺🇸油管_37","server":"172.99.188.71","port":6379,"cipher":"aes-256-gcm","password":"zDNVedRFPQexG9v"}
   - {"type":"ss","name":"🇺🇸油管_38","server":"172.99.188.71","port":8882,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
-  - {"type":"trojan","name":"🇺🇸油管_39","server":"trojan-daozhu-uallen-qbit-azure-hk.kinhproxy.com","port":443,"password":"trojan-daozhu-uallen-qbit-azure-hk","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇺🇸油管_40","server":"us23.567568.ml","port":27956,"password":"3df66137-a428-429c-a858-8b150721b354","udp":true,"skip-cert-verify":true,"sni":"us23.567568.ml"}
+  - {"type":"trojan","name":"🇺🇸油管_39","server":"us23.567568.ml","port":27956,"password":"3df66137-a428-429c-a858-8b150721b354","udp":true,"skip-cert-verify":true,"sni":"us23.567568.ml"}
   - {"type":"ss","name":"🇯🇵油管_1","server":"85.208.108.93","port":8119,"cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
   - {"type":"ss","name":"🇯🇵油管_2","server":"85.208.108.93","port":8091,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27"}
   - {"type":"ss","name":"🇯🇵油管_3","server":"85.208.108.93","port":5001,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
