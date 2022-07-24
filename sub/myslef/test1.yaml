@@ -2,6 +2,13 @@ proxies:
   - {"type":"trojan","name":"🇭🇰香港_1","server":"pp1.zhengzhongfeizhu.xyz","port":34001,"password":"eb2f8154-ff58-3b99-b393-28c8eecdbe64","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇭🇰香港_2","server":"pp1.zhengzhongfeizhu.xyz","port":34004,"password":"2f606ee8-3cfa-30b2-a191-f88efe912f5c","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇭🇰香港_3","server":"pp1.zhengzhongfeizhu.xyz","port":34002,"password":"7688df6f-bf65-3368-b55e-d78efea6a582","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳油管_4","server":"pp1.zhengzhongfeizhu.xyz","port":32002,"password":"eb2f8154-ff58-3b99-b393-28c8eecdbe64","udp":true,"skip-cert-verify":true,"sni":"ip3884414509.mobgslb.tbcache.com"}
+  - {"type":"trojan","name":"🇨🇳油管_5","server":"pp1.zhengzhongfeizhu.xyz","port":34003,"password":"7688df6f-bf65-3368-b55e-d78efea6a582","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳油管_6","server":"pp1.zhengzhongfeizhu.xyz","port":32001,"password":"2f606ee8-3cfa-30b2-a191-f88efe912f5c","udp":true,"skip-cert-verify":true,"sni":"111-47-215-139.nhost.00cdn.com"}
+  - {"type":"trojan","name":"🇨🇳油管_7","server":"pp1.zhengzhongfeizhu.xyz","port":34000,"password":"eb2f8154-ff58-3b99-b393-28c8eecdbe64","udp":true,"skip-cert-verify":true}
+  - {"type":"vmess","name":"🇨🇳油管_1","ws-opts":{"path":"/hls/cctv5phd.m3u8","headers":{"host":"YouTube-aweikeji"}},"server":"in-us-1.onebox6.org","port":"38401","uuid":"79386685-16da-327c-9e14-aa6d702d86bc","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇨🇳油管_2","ws-opts":{"path":"/hls/cctv5phd.m3u8","headers":{"host":"t.me/mengge88888888"}},"server":"in-us-1.onebox6.org","port":"38401","uuid":"79386685-16da-327c-9e14-aa6d702d86bc","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"🇨🇳油管_3","ws-opts":{"path":"/hls/cctv5phd.m3u8","headers":{"host":"in-us-1.onebox6.org"}},"server":"in-us-1.onebox6.org","port":"38401","uuid":"79386685-16da-327c-9e14-aa6d702d86bc","alterId":"0","cipher":"auto","network":"ws"}
   - {"type":"trojan","name":"🇨🇳台湾_1","server":"cm.spacez.cloud","port":30003,"password":"c9a3a61d-5d49-4158-9e60-6fa32684b122","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"🇨🇳台湾_2","server":"cm.spacez.cloud","port":30002,"password":"c9a3a61d-5d49-4158-9e60-6fa32684b122","udp":true,"skip-cert-verify":true}
   - {"type":"vmess","name":"🇺🇸美国_1","ws-opts":{"path":"/hls/cctv5phd.m3u8"},"server":"in-us-1.onebox6.org","port":38401,"uuid":"79386685-16da-327c-9e14-aa6d702d86bc","alterId":0,"cipher":"auto","network":"ws"}
@@ -34,3 +41,4 @@ proxies:
   - {"type":"vmess","name":"🇸🇬新加坡_4","ws-opts":{"path":"/hls/cctv5phd.m3u8"},"server":"ingress-i1.onebox6.org","port":38701,"uuid":"79386685-16da-327c-9e14-aa6d702d86bc","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇸🇬新加坡_5","ws-opts":{"path":"/hls/cctv5phd.m3u8"},"server":"in-sg-1.onebox6.org","port":38701,"uuid":"79386685-16da-327c-9e14-aa6d702d86bc","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇮🇪爱尔兰","ws-opts":{"path":"/hls/cctv5phd.m3u8"},"server":"in-jp-1.iivvppnn.info","port":38301,"uuid":"79386685-16da-327c-9e14-aa6d702d86bc","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"ss","name":"🇺🇸油管_1","server":"38.143.66.20","port":5000,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
