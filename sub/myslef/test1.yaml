@@ -42,3 +42,4 @@ proxies:
   - {"type":"vmess","name":"🇸🇬新加坡_5","ws-opts":{"path":"/hls/cctv5phd.m3u8"},"server":"in-sg-1.onebox6.org","port":38701,"uuid":"79386685-16da-327c-9e14-aa6d702d86bc","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"vmess","name":"🇮🇪爱尔兰","ws-opts":{"path":"/hls/cctv5phd.m3u8"},"server":"in-jp-1.iivvppnn.info","port":38301,"uuid":"79386685-16da-327c-9e14-aa6d702d86bc","alterId":0,"cipher":"auto","network":"ws"}
   - {"type":"ss","name":"🇺🇸油管_1","server":"38.143.66.20","port":5000,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"type":"vmess","name":"Sharecentrepro❤","ws-opts":{"path":"/Sharecentrepro"},"server":"azhk.sharecentre.xyz","port":58975,"uuid":"f0e9aff1-ba59-4af4-f3a1-6d17fffb4aca","alterId":0,"cipher":"auto","network":"ws","tls":true}
