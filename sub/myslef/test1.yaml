@@ -71,4 +71,3 @@ proxies:
   - {"type":"trojan","name":"最强_70","server":"azgy001.xiba1.xyz","port":20710,"password":"7497242f-3044-3c77-bf48-14bb26c92a83","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"最强_71","server":"supersouth.xn--mesv7f5toqlp.club","port":12003,"password":"dd04c158-1bac-47cd-99c1-5c4f64796dd5","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"最强_72","server":"supersouth.xn--mesv7f5toqlp.club","port":12001,"password":"dd04c158-1bac-47cd-99c1-5c4f64796dd5","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"最强_73","server":"supersouth.xn--mesv7f5toqlp.club","port":12002,"password":"dd04c158-1bac-47cd-99c1-5c4f64796dd5","udp":true,"skip-cert-verify":true}
