@@ -23,7 +23,6 @@ proxies:
   - {"type":"trojan","name":"最强_22","server":"sz-cm-kl.hinetwork.tw","port":11180,"password":"258f1db1-a4bc-3cab-ac7b-0ebc681c0580","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"最强_23","server":"sz-cm-kl.hinetwork.tw","port":11187,"password":"258f1db1-a4bc-3cab-ac7b-0ebc681c0580","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"最强_24","server":"sz-cm-kl.hinetwork.tw","port":11217,"password":"258f1db1-a4bc-3cab-ac7b-0ebc681c0580","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"最强_25","server":"hk31.ssgnode.ga","port":443,"password":"41742_920c8caa","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"最强_26","server":"2.58.242.43","port":443,"password":"7a9a3bb7-43b4YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"最强_27","server":"tw-oo-01.click","port":443,"password":"q8uTrVmj95aTrFAa","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"最强_28","server":"mv-tw05.link","port":443,"password":"s6rIg1Mkke73fwZU","udp":true,"skip-cert-verify":true}
