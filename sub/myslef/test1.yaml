@@ -13,7 +13,6 @@ proxies:
   - {"type":"trojan","name":"最强_35","server":"184.168.127.50","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"最强_36","server":"184.168.127.50","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"最强_37","server":"tky3.ssgnode.ga","port":443,"password":"23115_5a451f03","udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"最强_38","server":"share.softbank.mjj-home.com","port":443,"password":"share.mjj-home.com","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"最强_39","server":"tky3.ssgnode.ga","port":443,"password":"82a115db-6e59-4319-973lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"最强_40","server":"hlu.bgp2.liuliangzhuanfa.xyz","port":45379,"password":"1e599051-4192-4e19-b7d7-2b772ed32556","udp":true,"skip-cert-verify":true}
   - {"type":"trojan","name":"最强_41","server":"hlu.bgp2.liuliangzhuanfa.xyz","port":31097,"password":"1e599051-4192-4e19-b7d7-2b772ed32556","udp":true,"skip-cert-verify":true}
